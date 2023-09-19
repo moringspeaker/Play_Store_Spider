@@ -1,0 +1,5017 @@
+{
+  "count": {
+    "valid": 613,
+    "invalid": 388,
+    "error": 0
+  },
+  "valid_apps": {
+    "com.subsplashconsulting.s_T49DHN": {
+      "name": "Lansdale Presbyterian Church",
+      "csv_line": 340002,
+      "price": "0"
+    },
+    "com.pressmatrix.businesspunk": {
+      "name": "Business Punk",
+      "csv_line": 340005,
+      "price": "True"
+    },
+    "com.tecnichenuove.macchinealimentari": {
+      "name": "Macchine Alimentari",
+      "csv_line": 340006,
+      "price": "0"
+    },
+    "com.cpt.romantic.video.ringtone.lovevideoringtoneforincomingcall.videomaker.videoringtone.incomingcall.romanticvideoringtoneforincomingcall": {
+      "name": "Romantic Video Ringtone for Incoming Call",
+      "csv_line": 340007,
+      "price": "0"
+    },
+    "nl.sitedish.vulcano": {
+      "name": "Vulcano",
+      "csv_line": 340008,
+      "price": "0"
+    },
+    "com.louranews": {
+      "name": "Louranews",
+      "csv_line": 340010,
+      "price": "0"
+    },
+    "com.cgff.multi.robot.transforming.grand.robot.hero.battle": {
+      "name": "Multi Robot Transforming: Grand Robot Hero Battle",
+      "csv_line": 340011,
+      "price": "True"
+    },
+    "com.arabac.hait.bac": {
+      "name": "\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0643\u062a\u0627\u0628 \u0648\u0634\u0639\u0631\u0627\u0621 BAC",
+      "csv_line": 340014,
+      "price": "True"
+    },
+    "com.theuptimes": {
+      "name": "The UP Times",
+      "csv_line": 340015,
+      "price": "0"
+    },
+    "com.rozgaarindia": {
+      "name": "Rozgaar India - Hire Top Quality Freelancers",
+      "csv_line": 340016,
+      "price": "True"
+    },
+    "com.appsfeature.ultrascan": {
+      "name": "UltraScan - QR & Barcode Scanner",
+      "csv_line": 340018,
+      "price": "True"
+    },
+    "com.w00tforce.je_hu_free_dictionary": {
+      "name": "JE-HU : \u548c\u6d2a\u8f9e\u66f8",
+      "csv_line": 340019,
+      "price": "0"
+    },
+    "com.brml.calc_bowling": {
+      "name": "Calculator Bowling",
+      "csv_line": 340020,
+      "price": "True"
+    },
+    "com.lzone.hashtager": {
+      "name": "Hashtager - Auto hashtags generator for Instagram",
+      "csv_line": 340021,
+      "price": "0"
+    },
+    "com.job.piter": {
+      "name": "\u0420\u0430\u0431\u043e\u0442\u0430 \u0432 \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0435 \u2116 1",
+      "csv_line": 340022,
+      "price": "True"
+    },
+    "com.subsplash.thechurchapp.s_9G4TPM": {
+      "name": "White Horse Christian Center",
+      "csv_line": 340023,
+      "price": "True"
+    },
+    "com.appybuilder.ilhamouakam.eja": {
+      "name": "eja expat-jakarta.com",
+      "csv_line": 340024,
+      "price": "0"
+    },
+    "walia.simple.sleeptracker": {
+      "name": "Simple Sleep Tracker - Track sleeping patterns",
+      "csv_line": 340025,
+      "price": "True"
+    },
+    "com.rschooltoday.FacilityScheduler": {
+      "name": "Facilities Scheduler",
+      "csv_line": 340033,
+      "price": "0"
+    },
+    "com.LibertyWall.RainMusic": {
+      "name": "HULCUS",
+      "csv_line": 340039,
+      "price": "0"
+    },
+    "com.aldiduzha.climby": {
+      "name": "Climby",
+      "csv_line": 340040,
+      "price": "0"
+    },
+    "com.flockplatformmobilesaisc.droid": {
+      "name": "SAISC Steel Awards",
+      "csv_line": 340042,
+      "price": "0"
+    },
+    "com.mcgraw_hill.mhebooks": {
+      "name": "McGraw Hill India eBooks",
+      "csv_line": 340045,
+      "price": "True"
+    },
+    "com.dcuisine": {
+      "name": "D Cuisine",
+      "csv_line": 340047,
+      "price": "0"
+    },
+    "com.superappsmx.dogbarkingsounds": {
+      "name": "Dog Barking Sounds",
+      "csv_line": 340049,
+      "price": "True"
+    },
+    "eduthek.info.neutralization": {
+      "name": "Carbon Dioxide Neutralization",
+      "csv_line": 340050,
+      "price": "True"
+    },
+    "com.eyebuddy.eye_buddy": {
+      "name": "Eye Exercises and Vision Therapy Plans - EyeBuddy",
+      "csv_line": 340051,
+      "price": "0"
+    },
+    "com.crashtestdummylimited.militaryreserveretirementpaycalculator": {
+      "name": "US Military Reserve Retirement",
+      "csv_line": 340052,
+      "price": "1.49"
+    },
+    "com.araskargo": {
+      "name": "Aras Filo Takip",
+      "csv_line": 340054,
+      "price": "True"
+    },
+    "com.CannonHit.shootergame": {
+      "name": "Cannon Blast!",
+      "csv_line": 340055,
+      "price": "True"
+    },
+    "com.addept.Wizard": {
+      "name": "Wizard",
+      "csv_line": 340060,
+      "price": "True"
+    },
+    "com.bzszclient": {
+      "name": "BizzSmartz Client",
+      "csv_line": 340061,
+      "price": "0"
+    },
+    "com.allergan.btx3dspasticity": {
+      "name": "3D Spasticity",
+      "csv_line": 340062,
+      "price": "0"
+    },
+    "com.illusions.sonyuniversalremote": {
+      "name": "Universal Remote For Sony",
+      "csv_line": 340064,
+      "price": "1220240"
+    },
+    "com.scube.secdoc": {
+      "name": "Sec Doc SeQR Scan",
+      "csv_line": 340065,
+      "price": "0"
+    },
+    "com.Flashlightonclap": {
+      "name": "Flashlight On Clap",
+      "csv_line": 340067,
+      "price": "2624966"
+    },
+    "com.info.ignca_latest": {
+      "name": "IGNCA",
+      "csv_line": 340068,
+      "price": "0"
+    },
+    "com.borombo.chinesebridge": {
+      "name": "Bridges: Your Chinese Vocabulary Dictionary",
+      "csv_line": 340072,
+      "price": "0"
+    },
+    "com.paperton.wl.modelljarnvagsmagasinet": {
+      "name": "Modellj\u00e4rnv\u00e4gsmagasinet",
+      "csv_line": 340074,
+      "price": "0"
+    },
+    "com.elbakkeyDev.mybrush": {
+      "name": "My Brush",
+      "csv_line": 340075,
+      "price": "0"
+    },
+    "com.educational.baby.games": {
+      "name": "Baby Games for 1+ Toddlers",
+      "csv_line": 340076,
+      "price": "1518765"
+    },
+    "app.dvkm.com.latha": {
+      "name": "Hits of Lata Mangeshkar",
+      "csv_line": 340079,
+      "price": "0"
+    },
+    "com.ipsilondev.watchdesigner": {
+      "name": "WatchDesigner.app",
+      "csv_line": 340080,
+      "price": "0"
+    },
+    "com.RealtimeBiometrics.ssa": {
+      "name": "RealtimeSSA",
+      "csv_line": 340081,
+      "price": "0"
+    },
+    "com.quad9.aegis": {
+      "name": "Quad9 Connect",
+      "csv_line": 340084,
+      "price": "True"
+    },
+    "com.luffa.iforislam": {
+      "name": "I for Islam - Prayer Times & Adirai Adhan",
+      "csv_line": 340090,
+      "price": "True"
+    },
+    "com.bilan.Powietrze_S6": {
+      "name": "Bilan HVAC for Tablet",
+      "csv_line": 340091,
+      "price": "3.99"
+    },
+    "vbi.apps.metersurvey.erbis": {
+      "name": "Erbis Data Input",
+      "csv_line": 340092,
+      "price": "0"
+    },
+    "com.nguyenvo.ieltswriting": {
+      "name": "IELTS Writing",
+      "csv_line": 340093,
+      "price": "True"
+    },
+    "com.thespot.app": {
+      "name": "The Spot - Daily Latest News Headlines",
+      "csv_line": 340094,
+      "price": "0"
+    },
+    "com.gofrugal.ordereasy887683": {
+      "name": "Raage wholesalers",
+      "csv_line": 340095,
+      "price": "0"
+    },
+    "com.exo.welkmch": {
+      "name": "Welkm",
+      "csv_line": 340096,
+      "price": "True"
+    },
+    "com.LABEL788.FireFestivalMo": {
+      "name": "FIREWORKS FESTIVAL MAKER GAME",
+      "csv_line": 340098,
+      "price": "True"
+    },
+    "com.ankitrath.tictactoe": {
+      "name": "Tic Tac Toe : The Classic Game",
+      "csv_line": 340100,
+      "price": "0"
+    },
+    "it.quitelinks": {
+      "name": "Quitelinks",
+      "csv_line": 340101,
+      "price": "0"
+    },
+    "sweco.com.bintag.c4": {
+      "name": "BinTag til C4 Terminal",
+      "csv_line": 340102,
+      "price": "0"
+    },
+    "com.ruangdokumen.apps": {
+      "name": "Ruang Dokumen",
+      "csv_line": 340103,
+      "price": "0"
+    },
+    "com.ddmx.tracker": {
+      "name": "DDMX Rastreador Pessoal",
+      "csv_line": 340105,
+      "price": "0"
+    },
+    "com.philosophyofliferesearch.removeorpreventanxiety": {
+      "name": "Defeat Anxiety",
+      "csv_line": 340107,
+      "price": "0"
+    },
+    "com.pit.anisa": {
+      "name": "Anisa",
+      "csv_line": 340108,
+      "price": "0"
+    },
+    "appinventor.ai_patric_ammann_s2016.Pyramiden": {
+      "name": "Formelrechner",
+      "csv_line": 340110,
+      "price": "0"
+    },
+    "de.ms.mates": {
+      "name": "Timetable",
+      "csv_line": 340111,
+      "price": "True"
+    },
+    "jp.co.inbility.spagun": {
+      "name": "\u30b9\u30d1\u30fc\u30af\u30ac\u30f3\u30ca\u30fc(\u30b9\u30d1\u30ac\u30f3)\u3000\uff5e\u30bf\u30ef\u30fc\u30aa\u30d5\u30a7\u30f3\u30b92D\u30a2\u30af\u30b7\u30e7\u30f3RPG\uff5e",
+      "csv_line": 340112,
+      "price": "0"
+    },
+    "com.netscriper.yaythoutmal": {
+      "name": "\"\u101b\u1031\u101e\u1031\u102c\u1000\u103a\u1019\u101a\u103a (Drink Water Reminder, Myanmar)\"",
+      "csv_line": 340116,
+      "price": "0"
+    },
+    "com.sparkle.qualitywallpaper": {
+      "name": "Sparkly Wallpaper 4k - Glitter wallpapers",
+      "csv_line": 340117,
+      "price": "0"
+    },
+    "com.mobyo.mills2playeroffline": {
+      "name": "2 Player Mills Offline",
+      "csv_line": 340118,
+      "price": "True"
+    },
+    "cm.logram.lecitoyen": {
+      "name": "Le Citoyen",
+      "csv_line": 340120,
+      "price": "0"
+    },
+    "hu.itent.gazdabolt.szaktanacs": {
+      "name": "Gazdabolt.hu szaktan\u00e1csad\u00e1s",
+      "csv_line": 340123,
+      "price": "0"
+    },
+    "com.ilmasoft.parentQIS": {
+      "name": "Queen International School - Dubai",
+      "csv_line": 340124,
+      "price": "0"
+    },
+    "com.rms.mobile.number.locator.mobilecall.tracker.callerid.location": {
+      "name": "Mobile Number Search",
+      "csv_line": 340125,
+      "price": "True"
+    },
+    "com.subsplash.thechurchapp.ccoceanside": {
+      "name": "Calvary Chapel Oceanside",
+      "csv_line": 340126,
+      "price": "True"
+    },
+    "br.com.casaopen.sportplace.guadalajaranoticias": {
+      "name": "Guadalajara Club News",
+      "csv_line": 340127,
+      "price": "True"
+    },
+    "com.ServiceProg": {
+      "name": "low cost field Service phone app for repair techs",
+      "csv_line": 340128,
+      "price": "0"
+    },
+    "com.stsbd.fahim.usbangla": {
+      "name": "US-Bangla Airlines",
+      "csv_line": 340131,
+      "price": "True"
+    },
+    "ru.viktorshkuratov.instructionsCLB": {
+      "name": "\u0418\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u0438 \u0426\u0422\u043b\u0431",
+      "csv_line": 340134,
+      "price": "True"
+    },
+    "com.bf.app816504": {
+      "name": "CR Adoraci\u00f3n Kairos",
+      "csv_line": 340135,
+      "price": "0"
+    },
+    "com.phorest.paradigmsalonandcompany": {
+      "name": "Paradigm Salon & Company",
+      "csv_line": 340140,
+      "price": "0"
+    },
+    "com.hard.stacktree_arfoundation_210208": {
+      "name": "Stack Tree",
+      "csv_line": 340141,
+      "price": "0"
+    },
+    "com.yetasolutions.atmangage": {
+      "name": "ATMAnGage",
+      "csv_line": 340144,
+      "price": "True"
+    },
+    "me.app4100.amc": {
+      "name": "Fahimco Trading and Contracting",
+      "csv_line": 340145,
+      "price": "0"
+    },
+    "com.electron.college": {
+      "name": "Electron College",
+      "csv_line": 340146,
+      "price": "0"
+    },
+    "com.frugalflyer.airport.pvg": {
+      "name": "Shanghai Pudong Airport(PVG) Info + Flight Tracker",
+      "csv_line": 340149,
+      "price": "True"
+    },
+    "uk.co.freshplay.gentlemens_driving_club": {
+      "name": "Gentlemen's Driving Club",
+      "csv_line": 340150,
+      "price": "0"
+    },
+    "com.LayerGames.DarkPuzzle": {
+      "name": "Dungeon of Dark",
+      "csv_line": 340151,
+      "price": "True"
+    },
+    "com.powerclub.app": {
+      "name": "PWR CLUB",
+      "csv_line": 340152,
+      "price": "0"
+    },
+    "com.zingat.pro": {
+      "name": "Zingat Pro",
+      "csv_line": 340156,
+      "price": "True"
+    },
+    "com.bhappdevelopment.klevisxheka": {
+      "name": "OnCoaching",
+      "csv_line": 340157,
+      "price": "0"
+    },
+    "com.manicur.hbhvgtv": {
+      "name": "\u041c\u0430\u043d\u0438\u043a\u044e\u0440 200+ \u0438\u0434\u0435\u0439",
+      "csv_line": 340159,
+      "price": "0"
+    },
+    "canada.dutacristian": {
+      "name": "Canada Music ONLINE Ottawa",
+      "csv_line": 340161,
+      "price": "0"
+    },
+    "surah.waqiah.urdu": {
+      "name": "Surah Waqiah + Urdu (Offline)",
+      "csv_line": 340162,
+      "price": "True"
+    },
+    "com.pickle.HelicopterArmySimulator": {
+      "name": "Helicopter Army Simulator",
+      "csv_line": 340163,
+      "price": "1572430"
+    },
+    "com.su.kei.poemsearch": {
+      "name": "Chinese Poem Search Game",
+      "csv_line": 340166,
+      "price": "0"
+    },
+    "com.soundcloud.android": {
+      "name": "\"SoundCloud - Play Music, Podcasts & New Songs\"",
+      "csv_line": 340168,
+      "price": "319132635"
+    },
+    "com.monarchymedia.dropdisc": {
+      "name": "DropDisc",
+      "csv_line": 340169,
+      "price": "0"
+    },
+    "com.dozuki.charlessmith": {
+      "name": "Postmix Maintenance",
+      "csv_line": 340172,
+      "price": "0"
+    },
+    "com.gameandapp.onlineshooter": {
+      "name": "Infinity Strike - Online FPS",
+      "csv_line": 340174,
+      "price": "True"
+    },
+    "com.GreenParrotGames.LogicJumper": {
+      "name": "Logic Jumper",
+      "csv_line": 340176,
+      "price": "0"
+    },
+    "com.radionordeste": {
+      "name": "Radio Nordeste",
+      "csv_line": 340178,
+      "price": "0"
+    },
+    "digbazar.com.leben.in.deutschland": {
+      "name": "Einb\u00fcrgerungstest 2021: Lebens in Deutschland Test",
+      "csv_line": 340182,
+      "price": "True"
+    },
+    "com.equitysoft.incometaxcalculatoruk": {
+      "name": "HMRC Tax Calculator for UK",
+      "csv_line": 340183,
+      "price": "True"
+    },
+    "kuma.lingocards.danish": {
+      "name": "Learn Danish-Danish Words-Vocabulary for Beginners",
+      "csv_line": 340185,
+      "price": "True"
+    },
+    "com.whisperarts.kids.stopmotion": {
+      "name": "Stop Motion Cartoon Maker",
+      "csv_line": 340190,
+      "price": "True"
+    },
+    "com.panaton.loyax.android.demo": {
+      "name": "LOYAX Demo",
+      "csv_line": 340191,
+      "price": "0"
+    },
+    "org.godotengine.monsterniac": {
+      "name": "Monsterniac",
+      "csv_line": 340195,
+      "price": "0"
+    },
+    "com.Tropicalwallpaperhd.tropicalbeachwallpaper.Tropicalbackgroundwallpaper": {
+      "name": "Tropical Wallpaper 4K",
+      "csv_line": 340197,
+      "price": "True"
+    },
+    "chemical.applications.pressure.loss": {
+      "name": "Pressure Loss",
+      "csv_line": 340198,
+      "price": "0"
+    },
+    "air.com.freakinware.wormis": {
+      "name": "Worm.is: The Game",
+      "csv_line": 340199,
+      "price": "1230072"
+    },
+    "fr.bnf.bdnf.tablet": {
+      "name": "\"BDnF, the comics factory\"",
+      "csv_line": 340200,
+      "price": "True"
+    },
+    "com.andromo.dev670419.app672751": {
+      "name": "baby food",
+      "csv_line": 340201,
+      "price": "True"
+    },
+    "com.GierathsApplications.IntervalTimer": {
+      "name": "Interval Timer",
+      "csv_line": 340202,
+      "price": "0"
+    },
+    "ci.maxchip": {
+      "name": "Maxchip",
+      "csv_line": 340205,
+      "price": "0"
+    },
+    "com.is.android.cergyp": {
+      "name": "My STIVO - Cergy-Pontoise",
+      "csv_line": 340206,
+      "price": "True"
+    },
+    "an.FilipKoreanTranslate": {
+      "name": "Filipino Korean Translator",
+      "csv_line": 340207,
+      "price": "True"
+    },
+    "it.headu.easyenglishfattoria": {
+      "name": "EASY ENGLISH 100 WORDS The Farm",
+      "csv_line": 340208,
+      "price": "True"
+    },
+    "beautifulworld.studio.util.solareclipse": {
+      "name": "Solar Eclipse Catalog 2018-2030",
+      "csv_line": 340211,
+      "price": "True"
+    },
+    "com.uqode.simplebeamanalysis": {
+      "name": "Simple Beam Analysis",
+      "csv_line": 340212,
+      "price": "True"
+    },
+    "com.tarsensoft.tresenrayagratis": {
+      "name": "Tic Tac Toe",
+      "csv_line": 340214,
+      "price": "0"
+    },
+    "si.triglav.triglavpartner": {
+      "name": "Triglav Partner",
+      "csv_line": 340216,
+      "price": "0"
+    },
+    "com.threeDual.Bluar": {
+      "name": "Bluar",
+      "csv_line": 340217,
+      "price": "0"
+    },
+    "com.LHGames.BugsTale": {
+      "name": "Bug's Tale",
+      "csv_line": 340218,
+      "price": "0"
+    },
+    "com.ClassicHorse.MomentumMonsters": {
+      "name": "Momentum Monsters",
+      "csv_line": 340219,
+      "price": "0"
+    },
+    "com.nolimit.marbleworld": {
+      "name": "World Marble Shoot",
+      "csv_line": 340220,
+      "price": "0"
+    },
+    "com.fairapps.memorize.pro": {
+      "name": "\"Diary - Journal, My Diary, Daily Journal with Lock\"",
+      "csv_line": 340222,
+      "price": "0"
+    },
+    "com.rajdutcab.driverapp": {
+      "name": "Rajdut Driver",
+      "csv_line": 340223,
+      "price": "0"
+    },
+    "com.platinmarket.webview.gerezlimotor.com": {
+      "name": "Gerezli Motor",
+      "csv_line": 340225,
+      "price": "True"
+    },
+    "com.printklub.polabox": {
+      "name": "CHEERZ- Photo Printing",
+      "csv_line": 340227,
+      "price": "4605374"
+    },
+    "com.NagasawaLab.TPL20170104": {
+      "name": "\u7834\u58ca\u795e",
+      "csv_line": 340230,
+      "price": "0"
+    },
+    "jp.co.transcosmos.ichigoiche.lite": {
+      "name": "\u4e00\u4e94\u4e00\u4f1aLite",
+      "csv_line": 340231,
+      "price": "True"
+    },
+    "insightfulai.infusion": {
+      "name": "Infusion AI Art - Find Your Inspiration",
+      "csv_line": 340232,
+      "price": "0"
+    },
+    "com.stegacompany.beepazzle2": {
+      "name": "beepazzle",
+      "csv_line": 340233,
+      "price": "0"
+    },
+    "com.wuvistudio.junaydalbaqara": {
+      "name": "Thaha Al Junayd Al-Baqarah MP3",
+      "csv_line": 340234,
+      "price": "True"
+    },
+    "io.senpa.game": {
+      "name": "Senpa.io",
+      "csv_line": 340236,
+      "price": "True"
+    },
+    "com.devloperpro.queenwallpaper": {
+      "name": "Queen Wallpapers",
+      "csv_line": 340237,
+      "price": "True"
+    },
+    "com.adsoleware.remotepifm": {
+      "name": "Remote Pi FM",
+      "csv_line": 340239,
+      "price": "0"
+    },
+    "criv.mizzet.dabtimer": {
+      "name": "Dab Timer - Free Custom Heatup and Cooldown Timer",
+      "csv_line": 340240,
+      "price": "True"
+    },
+    "com.dumadugames.farkleblast": {
+      "name": "Farkle Blast",
+      "csv_line": 340242,
+      "price": "True"
+    },
+    "com.lirg2206.radiosdeluruguaygratisrionegro": {
+      "name": "Radio de Rio Negro Uruguay",
+      "csv_line": 340244,
+      "price": "0"
+    },
+    "me.apselom.aplicacionescolar.cvillalba": {
+      "name": "Colegio Villalba",
+      "csv_line": 340245,
+      "price": "0"
+    },
+    "com.roryapps.pizzamemo": {
+      "name": "Pizza Memo Coupon",
+      "csv_line": 340246,
+      "price": "0"
+    },
+    "com.tazzini.paolo.tazgame": {
+      "name": "TazGame",
+      "csv_line": 340247,
+      "price": "0"
+    },
+    "com.choiceofgames.broadsides": {
+      "name": "Choice of Broadsides",
+      "csv_line": 340250,
+      "price": "True"
+    },
+    "com.rogue.knightphone": {
+      "name": "Knightphone",
+      "csv_line": 340251,
+      "price": "True"
+    },
+    "mobo.andro.apps.quotes": {
+      "name": "Best Quotes and Status",
+      "csv_line": 340254,
+      "price": "0"
+    },
+    "com.shroolikthemagniv.geogramaster": {
+      "name": "Geogramaster - A geography quiz",
+      "csv_line": 340255,
+      "price": "0"
+    },
+    "com.incrediblesoftwareuk.recordradioturkey": {
+      "name": "Record Radio Turkey - Record Internet Radio Free",
+      "csv_line": 340256,
+      "price": "0"
+    },
+    "com.adknown.terribletanks": {
+      "name": "Terrible Tanks",
+      "csv_line": 340258,
+      "price": "True"
+    },
+    "com.systemstechnologies.uniabujaradio": {
+      "name": "UniAbuja Online Radio",
+      "csv_line": 340259,
+      "price": "0"
+    },
+    "org.appness.arizonabaseball": {
+      "name": "Arizona Baseball Diamondbacks Edition",
+      "csv_line": 340260,
+      "price": "True"
+    },
+    "com.osfunapps.remoteforeirvision": {
+      "name": "Remote Control For eir Vision",
+      "csv_line": 340262,
+      "price": "True"
+    },
+    "digifit.android.virtuagym.pro.resultcare": {
+      "name": "Molenhoek Fit",
+      "csv_line": 340264,
+      "price": "0"
+    },
+    "com.fci.deadspread": {
+      "name": "Dead Spread",
+      "csv_line": 340265,
+      "price": "0"
+    },
+    "io.ionic.prog5f4a8ff86d3d614112326979": {
+      "name": "Chithra Katha - \u0da0\u0dd2\u0dad\u0dca\u200d\u0dbb \u0d9a\u0dad\u0dcf",
+      "csv_line": 340266,
+      "price": "0"
+    },
+    "com.tocan.delamode": {
+      "name": "Tocan M Delamode",
+      "csv_line": 340268,
+      "price": "0"
+    },
+    "com.mirenad.mahjongtitans": {
+      "name": "Mahjong Titans",
+      "csv_line": 340269,
+      "price": "1091116"
+    },
+    "com.Guru.marvelhandbook": {
+      "name": "ComicBook",
+      "csv_line": 340271,
+      "price": "0"
+    },
+    "mobile.appYQpXufLlIs": {
+      "name": "IABTI",
+      "csv_line": 340272,
+      "price": "0"
+    },
+    "com.subsplashconsulting.s_RRJF4H": {
+      "name": "PCGW Ministries",
+      "csv_line": 340274,
+      "price": "0"
+    },
+    "net.eburnean.ecenhealthcare": {
+      "name": "\"\uc774\uc13c\ucf00\uc5b4 - \ubb34\ub98e \uc218\uc220 \ud658\uc790\ub97c \uc704\ud55c \uc7ac\ud65c, \ubcf5\uc57d\ud655\uc778, \ud1b5\uc99d\uccb4\ud06c\"",
+      "csv_line": 340275,
+      "price": "True"
+    },
+    "com.fibonacci.projection.calculator": {
+      "name": "Fibonaci Projection Calculator",
+      "csv_line": 340276,
+      "price": "True"
+    },
+    "com.candysmash.free.match3game": {
+      "name": "Candy Smash-Free Match 3 Puzzle Game",
+      "csv_line": 340277,
+      "price": "0"
+    },
+    "com.yug.motor.racing.highway.scooter.rave.complete.finish.missions.types.bumper": {
+      "name": "Motorcycle Free Games - Bike Racing Simulator",
+      "csv_line": 340278,
+      "price": "True"
+    },
+    "com.humanos.tpcc": {
+      "name": "TPCC HR",
+      "csv_line": 340285,
+      "price": "0"
+    },
+    "io.gonative.android.xjmzma": {
+      "name": "Btopix: Buy Sell & List Business Online",
+      "csv_line": 340286,
+      "price": "0"
+    },
+    "io.bemersive.vrroomddream": {
+      "name": "VRrOOm",
+      "csv_line": 340287,
+      "price": "True"
+    },
+    "de.itsgeo.geoace": {
+      "name": "GeoAce",
+      "csv_line": 340290,
+      "price": "0"
+    },
+    "com.jk.blogger": {
+      "name": "Chemicule",
+      "csv_line": 340292,
+      "price": "0"
+    },
+    "kanoony.blogspot.com.alkemamdafa2": {
+      "name": "\u0642\u0627\u0646\u0648\u0646 \u0636\u0631\u064a\u0628\u0629 \u0627\u0644\u0642\u064a\u0645\u0629 \u0627\u0644\u0645\u0636\u0627\u0641\u0629",
+      "csv_line": 340295,
+      "price": "True"
+    },
+    "com.appmind.radios.pl": {
+      "name": "Radio Polska - Radio FM",
+      "csv_line": 340296,
+      "price": "True"
+    },
+    "org.thebuyside": {
+      "name": "The Buy Side",
+      "csv_line": 340299,
+      "price": "0"
+    },
+    "com.literalcode.clipboard_viewer": {
+      "name": "Clipboard Viewer",
+      "csv_line": 340300,
+      "price": "True"
+    },
+    "de.danielerdmann.honeybearrun.android": {
+      "name": "Honey Bear Jump 'n Run Game",
+      "csv_line": 340301,
+      "price": "True"
+    },
+    "com.shinetech.spanishkeyboard": {
+      "name": "Spanish Keyboard and Translator",
+      "csv_line": 340302,
+      "price": "True"
+    },
+    "in.redback.groups.apps.redbackcouncil": {
+      "name": "RISC",
+      "csv_line": 340303,
+      "price": "0"
+    },
+    "com.dacappsdev.hackerwallpapershd": {
+      "name": "Hacker Wallpapers",
+      "csv_line": 340304,
+      "price": "True"
+    },
+    "com.hubconnect.hubconnectapp": {
+      "name": "HUBconnect",
+      "csv_line": 340305,
+      "price": "0"
+    },
+    "it.mobilesoft.zungri": {
+      "name": "Zungri",
+      "csv_line": 340307,
+      "price": "True"
+    },
+    "com.medinet.patientapp": {
+      "name": "Medinet",
+      "csv_line": 340308,
+      "price": "True"
+    },
+    "com.mjmtapps.funny_sms": {
+      "name": "\u09ab\u09be\u09a8\u09bf \u098f\u09b8\u098f\u09ae\u098f\u09b8\u200d\u200d\u200d\u200c\u200c\u200c \u09ac\u09be\u0982\u09b2\u09be-\u09b9\u09be\u09b8\u09a4\u09c7 \u09b9\u09be\u09b8\u09a4\u09c7 \u09a6\u09be\u09a4 \u09b2\u09be\u0997\u09ac\u09c7",
+      "csv_line": 340309,
+      "price": "True"
+    },
+    "com.appscroy.psalm129": {
+      "name": "Psalm 129",
+      "csv_line": 340312,
+      "price": "0"
+    },
+    "fr.cnam.reader": {
+      "name": "Le Cnam eBooks partag\u00e9s",
+      "csv_line": 340313,
+      "price": "True"
+    },
+    "com.mewetoo": {
+      "name": "Me We Too",
+      "csv_line": 340314,
+      "price": "True"
+    },
+    "com.jcbcity.mmx": {
+      "name": "Excavator Jcb City Mission Simulator",
+      "csv_line": 340315,
+      "price": "True"
+    },
+    "com.bellcarriagelimited.redhill": {
+      "name": "RoadRunners Gatwick",
+      "csv_line": 340316,
+      "price": "True"
+    },
+    "com.wallpaperspremiumbackgrounds.wallpapersvalentimeslovebackgrounds": {
+      "name": "Valentine's Day Love Wallpapers HD Backgrounds",
+      "csv_line": 340317,
+      "price": "0"
+    },
+    "dogfriendly.appbakery": {
+      "name": "Dog Friendly",
+      "csv_line": 340320,
+      "price": "0"
+    },
+    "pl.rosmedia.rozmowkipolswefull": {
+      "name": "Rozm\u00f3wki polsko-szwedzkie",
+      "csv_line": 340321,
+      "price": "1.49"
+    },
+    "com.regopantes.android": {
+      "name": "RegoPantes - Untuk Petani",
+      "csv_line": 340323,
+      "price": "True"
+    },
+    "mobile.app5aJgxuR9qx": {
+      "name": "\"Central Area Links, Inc.\"",
+      "csv_line": 340324,
+      "price": "0"
+    },
+    "com.codeswitch.batterywidget": {
+      "name": "Battery Widget",
+      "csv_line": 340325,
+      "price": "True"
+    },
+    "com.thatonebyte.blackjack": {
+      "name": "Blackjack 21 - card game",
+      "csv_line": 340326,
+      "price": "True"
+    },
+    "com.witchborn.wailing": {
+      "name": "Wailing Citadel",
+      "csv_line": 340331,
+      "price": "0"
+    },
+    "com.experenti.mecspe": {
+      "name": "Siemens MECSPE 2018",
+      "csv_line": 340336,
+      "price": "0"
+    },
+    "com.deliverycoop.orderingapp": {
+      "name": "Delivery Co-op",
+      "csv_line": 340337,
+      "price": "0"
+    },
+    "com.sdge.psps": {
+      "name": "Alerts by SDG&E",
+      "csv_line": 340338,
+      "price": "True"
+    },
+    "com.casanovaexperience.app": {
+      "name": "CASANOVA MUSEUM & EXPERIENCE",
+      "csv_line": 340339,
+      "price": "0"
+    },
+    "labonneaventure.lune_sagesse": {
+      "name": "Lune Sagesse",
+      "csv_line": 340340,
+      "price": "True"
+    },
+    "com.zapak.ram.hanuman.surfer": {
+      "name": "Little Ram",
+      "csv_line": 340341,
+      "price": "4932199"
+    },
+    "com.rapidbump.mobile": {
+      "name": "Rapidbump Mobile",
+      "csv_line": 340343,
+      "price": "True"
+    },
+    "com.ecard_agio_new": {
+      "name": "ecard",
+      "csv_line": 340344,
+      "price": "0"
+    },
+    "com.cosmoshouqi": {
+      "name": "Cosmo Shuoqi",
+      "csv_line": 340345,
+      "price": "0"
+    },
+    "com.gruporedplus.sendmoney": {
+      "name": "Red Plus",
+      "csv_line": 340346,
+      "price": "True"
+    },
+    "com.roberts.croberts.mantis": {
+      "name": "MantisX - Pistol/Rifle",
+      "csv_line": 340347,
+      "price": "True"
+    },
+    "devesh.ephrine.qr.code.pro": {
+      "name": "QR Lite (Premium Version)",
+      "csv_line": 340348,
+      "price": "1.99"
+    },
+    "eir.watches.fuzzy": {
+      "name": "Fuzzy Watchfaces SmartWatch 2",
+      "csv_line": 340349,
+      "price": "0.99"
+    },
+    "com.easy2ship": {
+      "name": "Easy2Ship",
+      "csv_line": 340350,
+      "price": "0"
+    },
+    "belltron.streaming": {
+      "name": "Belltron Streaming",
+      "csv_line": 340351,
+      "price": "True"
+    },
+    "com.HiddenGames.ShooterRobot": {
+      "name": "ShooterRobot",
+      "csv_line": 340354,
+      "price": "0"
+    },
+    "com.resonancelab.namazrus": {
+      "name": "\u0412\u0440\u0435\u043c\u044f \u043d\u0430\u043c\u0430\u0437\u0430",
+      "csv_line": 340356,
+      "price": "True"
+    },
+    "com.atga.dashcam": {
+      "name": "ATGA DC100",
+      "csv_line": 340357,
+      "price": "0"
+    },
+    "tj.sahifa.armenian": {
+      "name": "\u0420\u0443\u0441\u0441\u043a\u043e-\u0430\u0440\u043c\u044f\u043d\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0447\u0438\u043a",
+      "csv_line": 340360,
+      "price": "True"
+    },
+    "com.droidcorp.defendcastle": {
+      "name": "Defend the Castle",
+      "csv_line": 340362,
+      "price": "True"
+    },
+    "com.piconshalaal": {
+      "name": "\u0635\u0648\u0631\u062a\u0643 \u0641\u064a \u0634\u0644\u0627\u0644",
+      "csv_line": 340363,
+      "price": "True"
+    },
+    "com.Tobit.android.Slitte6775205153": {
+      "name": "Scott on TorTour",
+      "csv_line": 340364,
+      "price": "0"
+    },
+    "br.com.mahhaus.onezabbix": {
+      "name": "OneZabbix",
+      "csv_line": 340366,
+      "price": "True"
+    },
+    "com.impelsys.ada.android.ebookstore": {
+      "name": "ADA Books",
+      "csv_line": 340368,
+      "price": "True"
+    },
+    "com.tapmango.centrevr": {
+      "name": "Centre VR Rewards",
+      "csv_line": 340369,
+      "price": "0"
+    },
+    "com.fabiosanto.livewall": {
+      "name": "Wonderwall - Live Aerial Wallpapers 4K HD",
+      "csv_line": 340371,
+      "price": "0"
+    },
+    "com.btosc.paperscanner": {
+      "name": "Paper Scanner",
+      "csv_line": 340372,
+      "price": "True"
+    },
+    "com.evo.evolet": {
+      "name": "Evolet",
+      "csv_line": 340376,
+      "price": "True"
+    },
+    "com.recursokreativo.cliente.pide": {
+      "name": "Pide - Delivery App",
+      "csv_line": 340377,
+      "price": "True"
+    },
+    "com.mobileinventor.cherrieandersondance": {
+      "name": "Cherrie Anderson Dance",
+      "csv_line": 340378,
+      "price": "0"
+    },
+    "ru.myappbook.GalushkiRecept": {
+      "name": "\u0413\u0430\u043b\u0443\u0448\u043a\u0438. \u0420\u0435\u0446\u0435\u043f\u0442\u044b",
+      "csv_line": 340380,
+      "price": "0"
+    },
+    "com.saferapps.sabiondo": {
+      "name": "Sabiondo",
+      "csv_line": 340381,
+      "price": "True"
+    },
+    "com.espace.ninetyseconds": {
+      "name": "\u0669\u0660 \u062b\u0627\u0646\u064a\u0629",
+      "csv_line": 340384,
+      "price": "True"
+    },
+    "grant.mov.to.mp4": {
+      "name": "Mov To Mp4 Converter",
+      "csv_line": 340385,
+      "price": "True"
+    },
+    "com.nityamlight.nityamhome": {
+      "name": "Nityam Smart",
+      "csv_line": 340387,
+      "price": "True"
+    },
+    "com.gulshansingh.hackerlivewallpaper": {
+      "name": "Hacker Live Wallpaper",
+      "csv_line": 340389,
+      "price": "True"
+    },
+    "com.gmail.side.junktown.fluttertravelexchange": {
+      "name": "\u65c5\u884c\u7528-\u901a\u8ca8\u4e21\u66ff\u96fb\u5353",
+      "csv_line": 340390,
+      "price": "True"
+    },
+    "com.appfeed.ovimanisadstatus": {
+      "name": "\u0985\u09ad\u09bf\u09ae\u09be\u09a8\u09c0 \u0995\u09b7\u09cd\u099f\u09c7\u09b0 \u09b8\u09cd\u099f\u09cd\u09af\u09be\u099f\u09be\u09b8",
+      "csv_line": 340391,
+      "price": "True"
+    },
+    "com.appshouseproduction.ayatul_kursi_doa_qunut_doa_masura_all_kalma_app": {
+      "name": "\u0986\u09af\u09bc\u09be\u09a4\u09c1\u09b2 \u0995\u09c1\u09b0\u09b8\u09bf \u09a6\u09cb\u09af\u09bc\u09be \u0995\u09c1\u09a8\u09c1\u09a4 \u09a6\u09cb\u09af\u09bc\u09be \u09ae\u09be\u09b8\u09c1\u09b0\u09be \u0995\u09be\u09b2\u09c7\u09ae\u09be \u09b8\u09ae\u09c1\u09b9",
+      "csv_line": 340392,
+      "price": "0"
+    },
+    "com.hopeway.cam.newhope": {
+      "name": "Hopeway",
+      "csv_line": 340393,
+      "price": "True"
+    },
+    "pdfreader.supercoders.in": {
+      "name": "PDF Reader",
+      "csv_line": 340395,
+      "price": "True"
+    },
+    "com.IslamGhar.SurahAlMulk": {
+      "name": "Surah Al-Mulk with Urdu Translation",
+      "csv_line": 340396,
+      "price": "0"
+    },
+    "com.centricsoftware.captureit": {
+      "name": "Centric Capture It",
+      "csv_line": 340397,
+      "price": "0"
+    },
+    "net.artstyle.deutschland_schleswig_holstein_radiosender_kiel_flensburg": {
+      "name": "Radio Schleswig-Holstein",
+      "csv_line": 340398,
+      "price": "0"
+    },
+    "net.almaliki.soft": {
+      "name": "\u062d\u0633\u0627\u0628 \u0627\u0644\u0639\u0645\u0631 \u0628\u0627\u0644\u0647\u062c\u0631\u064a",
+      "csv_line": 340399,
+      "price": "True"
+    },
+    "com.casagbic.chitraapps.tamilsamayal": {
+      "name": "Tamil Samayal \u0b9a\u0bbf\u0ba4\u0bcd\u0bb0\u0bbe \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0b9a\u0bae\u0bc8\u0baf\u0bb2\u0bcd",
+      "csv_line": 340400,
+      "price": "True"
+    },
+    "com.Sandlikesun.Resizergun": {
+      "name": "Mod resizer gun",
+      "csv_line": 340401,
+      "price": "0"
+    },
+    "com.pos.cozycloud": {
+      "name": "CozyPOS",
+      "csv_line": 340403,
+      "price": "0"
+    },
+    "ru.narod.fdik82.clubmusic": {
+      "name": "Electronic Dance Music Radio",
+      "csv_line": 340405,
+      "price": "True"
+    },
+    "kr.co.swit.knuv": {
+      "name": "\uac15\ub0a8\ub300\ud559\uad50 \uc218\uac15\uc2e0\uccad",
+      "csv_line": 340406,
+      "price": "True"
+    },
+    "com.inertiasoftware.facility47free": {
+      "name": "Facility 47 Free",
+      "csv_line": 340407,
+      "price": "True"
+    },
+    "com.chatef.malaysia": {
+      "name": "Malaysia Dating & Chat",
+      "csv_line": 340411,
+      "price": "True"
+    },
+    "br.com.meajudaprofissional": {
+      "name": "Me Ajuda Limpeza - Profissional",
+      "csv_line": 340412,
+      "price": "True"
+    },
+    "andro.tool.morsalphabetpro": {
+      "name": "Mors Alphabet Pro",
+      "csv_line": 340415,
+      "price": "0"
+    },
+    "io.pushpay.newlifeprovidencechurch": {
+      "name": "New Life Church - VA",
+      "csv_line": 340416,
+      "price": "0"
+    },
+    "com.sat_finder.ojo": {
+      "name": "OJO Workforce",
+      "csv_line": 340418,
+      "price": "0"
+    },
+    "com.roddurstudio.name_child": {
+      "name": "\u09b6\u09bf\u09b6\u09c1\u09a6\u09c7\u09b0 \u09b8\u09c1\u09a8\u09cd\u09a6\u09b0 \u09a8\u09be\u09ae \u0985\u09b0\u09cd\u09a5\u09b8\u09b9 - Bangla Baby Names",
+      "csv_line": 340422,
+      "price": "0"
+    },
+    "alldictdict.alldict.cses": {
+      "name": "Czech-Spanish Dictionary",
+      "csv_line": 340424,
+      "price": "True"
+    },
+    "com.emsfit.way1.PowerBum": {
+      "name": "PowerBum",
+      "csv_line": 340425,
+      "price": "0"
+    },
+    "br.com.supermercadosindio": {
+      "name": "Supermercados \u00cdndio",
+      "csv_line": 340426,
+      "price": "True"
+    },
+    "com.sentill.tank": {
+      "name": "3D Tank Battle",
+      "csv_line": 340427,
+      "price": "True"
+    },
+    "com.colt.words": {
+      "name": "Erudite: Russian words",
+      "csv_line": 340434,
+      "price": "True"
+    },
+    "com.vigli.si_on_sortait": {
+      "name": "Si On Sortait - L'appli qui t'fait bouger !",
+      "csv_line": 340436,
+      "price": "True"
+    },
+    "tw.at.yescirculation.mediadotpaper": {
+      "name": "Media Dot Paper",
+      "csv_line": 340439,
+      "price": "0"
+    },
+    "com.babyphone.toyphone": {
+      "name": "Baby phone toy - Educational toy Games for kids",
+      "csv_line": 340442,
+      "price": "True"
+    },
+    "ru.halase.app": {
+      "name": "\"\u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d\u043e\u0432 \"\"\u0425\u0430\u043b\u0430\u0441\u0451\"\"\"",
+      "csv_line": 340445,
+      "price": "True"
+    },
+    "cc.nextlabs.nodejs": {
+      "name": "Node.js Docs",
+      "csv_line": 340450,
+      "price": "True"
+    },
+    "br.com.welltecnologia.radioplanaltoamaraguari": {
+      "name": "RADIO PLANALTO AM ARAGUARI",
+      "csv_line": 340451,
+      "price": "True"
+    },
+    "com.app.forestmediafmltv": {
+      "name": "FOREST TV -  All Africa's TV Channels & Videos",
+      "csv_line": 340452,
+      "price": "True"
+    },
+    "paris.fresh.clock.lwp": {
+      "name": "Fresh Clock Live Wallpaper",
+      "csv_line": 340453,
+      "price": "0"
+    },
+    "com.douzone.bizcube.oneffice.phone": {
+      "name": "ONEFFICE for Amaranth10",
+      "csv_line": 340454,
+      "price": "0"
+    },
+    "com.fundacionmapfre.sosrespira": {
+      "name": "SOS Respira",
+      "csv_line": 340455,
+      "price": "True"
+    },
+    "ru.FoodSoul.SakiSushiBoo": {
+      "name": "Sushi Boo | Russia",
+      "csv_line": 340456,
+      "price": "0"
+    },
+    "com.chinesemenuonline.wildgingerprovo": {
+      "name": "Wild Ginger Provo Online Ordering",
+      "csv_line": 340459,
+      "price": "0"
+    },
+    "com.samsung.accessory.popcornmgr": {
+      "name": "Galaxy Buds+ Plugin",
+      "csv_line": 340460,
+      "price": "True"
+    },
+    "com.olidemallorca": {
+      "name": "Oli de Mallorca. Rutes en fam\u00edlia",
+      "csv_line": 340461,
+      "price": "0"
+    },
+    "tabarak.ar": {
+      "name": "\u062a\u0623\u0648\u064a\u0644 \u062c\u0632\u0621 \u062a\u0628\u0627\u0631\u0643",
+      "csv_line": 340462,
+      "price": "True"
+    },
+    "ess.ThinkBigStudio.ParkIt3dSimulator": {
+      "name": "Park It - 3d simulator 2020",
+      "csv_line": 340463,
+      "price": "True"
+    },
+    "com.resepsoto.caramembuatsoto.resepsotoenaklengkap": {
+      "name": "Resep Soto",
+      "csv_line": 340465,
+      "price": "True"
+    },
+    "gov.cincinnatioh.FixitCincyV2": {
+      "name": "Fix it Cincy!",
+      "csv_line": 340466,
+      "price": "0"
+    },
+    "de.afischer.aftrack.plugin.sensbox": {
+      "name": "AFTrack SensBox Plugin",
+      "csv_line": 340469,
+      "price": "0"
+    },
+    "com.trinquilin.kdcampus": {
+      "name": "KD Campus Class Schedule (Class Routine)",
+      "csv_line": 340470,
+      "price": "True"
+    },
+    "com.user.gosca": {
+      "name": "\uace0\uc2a4\uce74(GOSCA)",
+      "csv_line": 340472,
+      "price": "True"
+    },
+    "uk.co.bread.oxford.luggage.android": {
+      "name": "Test App",
+      "csv_line": 340473,
+      "price": "0"
+    },
+    "com.efexxapps.android5d7e7bd93c0e2": {
+      "name": "The dope Day Maker",
+      "csv_line": 340474,
+      "price": "0"
+    },
+    "com.tools.tv.remote.aoc": {
+      "name": "Remote for AOC TV",
+      "csv_line": 340480,
+      "price": "True"
+    },
+    "com.tudoati.beber.agua": {
+      "name": "Beber Agua",
+      "csv_line": 340481,
+      "price": "0"
+    },
+    "com.prismea.android": {
+      "name": "\"PRISMEA, YOUR PRO ACCOUNT BETTER\"",
+      "csv_line": 340482,
+      "price": "True"
+    },
+    "it.mic.rassegnastampa.forzalazio": {
+      "name": "Forza Lazio News",
+      "csv_line": 340483,
+      "price": "True"
+    },
+    "com.brava": {
+      "name": "Brava Home",
+      "csv_line": 340484,
+      "price": "True"
+    },
+    "br.com.klickdriver.passenger.drivermachine": {
+      "name": "Klick Driver",
+      "csv_line": 340485,
+      "price": "True"
+    },
+    "com.redstaff.apps.mood16": {
+      "name": "Mood Scanner Prank",
+      "csv_line": 340489,
+      "price": "True"
+    },
+    "com.app_suisuncitypd.layout": {
+      "name": "Suisun City Police Department",
+      "csv_line": 340490,
+      "price": "0"
+    },
+    "com.mehr.un.nisa.free.apps.norwegian.keyboard": {
+      "name": "Norwegian keyboard MN",
+      "csv_line": 340491,
+      "price": "0"
+    },
+    "com.altf5.publisher.kreyol.gwiyane": {
+      "name": "Kr\u00e9y\u00f2l",
+      "csv_line": 340493,
+      "price": "0"
+    },
+    "com.vet2pet.goldensbridgevcc2604": {
+      "name": "Goldens Bridge Veterinary",
+      "csv_line": 340495,
+      "price": "0"
+    },
+    "com.das.mytravelsuitcase": {
+      "name": "My Travel Suitcase",
+      "csv_line": 340497,
+      "price": "True"
+    },
+    "br.org.congregacao.apprelatoriodigital": {
+      "name": "CCB - Relat\u00f3rio Digital",
+      "csv_line": 340498,
+      "price": "True"
+    },
+    "com.foodarama": {
+      "name": "Foodarama",
+      "csv_line": 340500,
+      "price": "True"
+    },
+    "com.osmino.sova": {
+      "name": "SOVA: virtual assistants",
+      "csv_line": 340504,
+      "price": "0"
+    },
+    "com.manfromthespace.guim": {
+      "name": "Where2Buy Guimar\u00e3es",
+      "csv_line": 340506,
+      "price": "0"
+    },
+    "com.nitron.mintbrowser": {
+      "name": "MINT Browser - Secure & Fast",
+      "csv_line": 340508,
+      "price": "True"
+    },
+    "com.YKDev.Pushball": {
+      "name": "Pushball",
+      "csv_line": 340511,
+      "price": "0"
+    },
+    "steve.tv.scc": {
+      "name": "TV SCC",
+      "csv_line": 340513,
+      "price": "0"
+    },
+    "jp.co.vixen.intervalimage": {
+      "name": "Interval Book",
+      "csv_line": 340514,
+      "price": "True"
+    },
+    "com.BibaVentures.homegame": {
+      "name": "Biba Home Adventures",
+      "csv_line": 340515,
+      "price": "0"
+    },
+    "com.trainerize.evolvelifestyletraining": {
+      "name": "Evolve lifestyle training",
+      "csv_line": 340516,
+      "price": "0"
+    },
+    "com.phorest.indulgenewbury": {
+      "name": "Indulge Newbury",
+      "csv_line": 340517,
+      "price": "0"
+    },
+    "com.hdsoftech.attitudestatus": {
+      "name": "Attitude Status in Hindi",
+      "csv_line": 340518,
+      "price": "True"
+    },
+    "nl.bms.staalprofielen": {
+      "name": "Staalprofielen",
+      "csv_line": 340520,
+      "price": "True"
+    },
+    "com.freezetag.munzee": {
+      "name": "Munzee",
+      "csv_line": 340521,
+      "price": "True"
+    },
+    "com.SmartTakeaways.papapizz1": {
+      "name": "Papa Pizza Rotherham",
+      "csv_line": 340522,
+      "price": "0"
+    },
+    "com.exence.cmanomad": {
+      "name": "CMA Nomad",
+      "csv_line": 340526,
+      "price": "0"
+    },
+    "hk.com.lcx": {
+      "name": "LCX HK",
+      "csv_line": 340528,
+      "price": "True"
+    },
+    "com.ist.irecharge": {
+      "name": "iRecharge",
+      "csv_line": 340530,
+      "price": "True"
+    },
+    "com.phorest.relaxspa": {
+      "name": "Relax Spa",
+      "csv_line": 340532,
+      "price": "0"
+    },
+    "se.teoriappar.takorkort.be.lite": {
+      "name": "Ta BE-k\u00f6rkort - Prova p\u00e5",
+      "csv_line": 340533,
+      "price": "True"
+    },
+    "com.lazypandastudio.therevengeapp": {
+      "name": "Revenge App",
+      "csv_line": 340536,
+      "price": "True"
+    },
+    "com.comknow.credotv": {
+      "name": "Credo TV",
+      "csv_line": 340538,
+      "price": "True"
+    },
+    "co.myware.app": {
+      "name": "MyWaRe",
+      "csv_line": 340539,
+      "price": "0"
+    },
+    "com.residencesathamiltonlakes": {
+      "name": "Hamilton Experience",
+      "csv_line": 340541,
+      "price": "0"
+    },
+    "com.carback.app.driver": {
+      "name": "Carback Driver - \u1ee8ng D\u1ee5ng \u0110\u1ed1i T\u00e1c Carback",
+      "csv_line": 340543,
+      "price": "True"
+    },
+    "com.honeythemes.vivo.v17pro.theme.wallpaper.android.launcher.smartphone": {
+      "name": "Theme for Vivo V17 Pro",
+      "csv_line": 340547,
+      "price": "True"
+    },
+    "com.fitnessforalle.workout": {
+      "name": "10 Minutes Workout - Full Body",
+      "csv_line": 340549,
+      "price": "0"
+    },
+    "com.cgfx.ninjarunupanddown": {
+      "name": "Ninja Run Up and Down",
+      "csv_line": 340552,
+      "price": "0"
+    },
+    "com.atlasdata.mo7adarat_cheikh_3arifi": {
+      "name": "\u062e\u0637\u0628 \u0648\u0645\u062d\u0627\u0636\u0631\u0627\u062a \u0627\u0644\u0634\u064a\u062e \u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u064a\u0641\u064a",
+      "csv_line": 340553,
+      "price": "True"
+    },
+    "com.bhanu.rotationmanager": {
+      "name": "Rotation Manager - Screen Orientation Manager",
+      "csv_line": 340554,
+      "price": "True"
+    },
+    "com.smashinggeeks.limostuntsimulator": {
+      "name": "Limo Stunt Simulator",
+      "csv_line": 340555,
+      "price": "0"
+    },
+    "com.rudelabs.shaheed_wishes": {
+      "name": "Shaheed Diwas Wishes & Images",
+      "csv_line": 340557,
+      "price": "0"
+    },
+    "cl.dreamsit.Andamios": {
+      "name": "Andamios Arauco",
+      "csv_line": 340558,
+      "price": "0"
+    },
+    "com.lorenove.myLorenove": {
+      "name": "myLorenove",
+      "csv_line": 340559,
+      "price": "0"
+    },
+    "com.meang.chines": {
+      "name": "Dream Meaning in Chinese \u89e3\u68a6 \u542b\u4e49",
+      "csv_line": 340562,
+      "price": "True"
+    },
+    "co.thanos.yxfve": {
+      "name": "Neet IIT Home",
+      "csv_line": 340563,
+      "price": "0"
+    },
+    "appinventor.ai_voteliveboost.westpapua_copy": {
+      "name": "Free West Papua",
+      "csv_line": 340565,
+      "price": "True"
+    },
+    "com.smartsolution.www.ardassahibinpunjabi": {
+      "name": "Ardas Sahib In Punjabi",
+      "csv_line": 340566,
+      "price": "True"
+    },
+    "mic.app.gastosdecompras": {
+      "name": "Shopping Expenses",
+      "csv_line": 340567,
+      "price": "True"
+    },
+    "com.RamiAllam.SaveTheFlag": {
+      "name": "Save The Flag",
+      "csv_line": 340568,
+      "price": "True"
+    },
+    "com.bhaptics.player": {
+      "name": "bHaptics Player",
+      "csv_line": 340571,
+      "price": "True"
+    },
+    "cc.mannam.gideon.bible.vaiphei.v1": {
+      "name": "Simple Bible - Vaiphei (BBE)",
+      "csv_line": 340572,
+      "price": "True"
+    },
+    "com.mnm.ctscratchguide": {
+      "name": "Scratch-Off Guide for Connecticut State Lottery",
+      "csv_line": 340575,
+      "price": "True"
+    },
+    "com.iq_studio.moaleed_shabaan": {
+      "name": "\u0645\u0648\u0627\u0644\u064a\u062f \u0634\u0639\u0628\u0627\u0646 \u0628\u062f\u0648\u0646 \u0646\u062a",
+      "csv_line": 340576,
+      "price": "True"
+    },
+    "jp.co.kixx.game.casino": {
+      "name": "One Hour Poker",
+      "csv_line": 340577,
+      "price": "True"
+    },
+    "best2017translatorapps.thai.Korean": {
+      "name": "Thai Korean\u00a0Translator",
+      "csv_line": 340579,
+      "price": "True"
+    },
+    "com.nebo.famous8": {
+      "name": "644 Words",
+      "csv_line": 340580,
+      "price": "True"
+    },
+    "air.com.borodagames.kickermobile": {
+      "name": "World Foosball Cup",
+      "csv_line": 340581,
+      "price": "True"
+    },
+    "com.empiricit.app.eurotimenext": {
+      "name": "Eurotime NEXT",
+      "csv_line": 340583,
+      "price": "0"
+    },
+    "com.copypasteit.mobilehut.latest.mobile.market": {
+      "name": "MobileHut - Latest Mobile Market",
+      "csv_line": 340584,
+      "price": "0"
+    },
+    "br.unigranrio.app": {
+      "name": "Aluno Unigranrio",
+      "csv_line": 340585,
+      "price": "True"
+    },
+    "nz.orchestra.soop_hygen": {
+      "name": "Soop Hygiene",
+      "csv_line": 340586,
+      "price": "0"
+    },
+    "com.tahfiyd.quraene.charefe": {
+      "name": "\u062a\u062d\u0641\u064a\u0638 \u0627\u0644\u0642\u0631\u0622\u0646 \u0627\u0644\u0634\u0631\u064a\u0641 \u0644\u0644\u0623\u0637\u0641\u0627\u0644 \u0648 \u0628\u062f\u0648\u0646 \u0646\u062a",
+      "csv_line": 340587,
+      "price": "0"
+    },
+    "com.litemint.app": {
+      "name": "\"Litemint - Stellar Wallet, Games, Collectibles\"",
+      "csv_line": 340590,
+      "price": "True"
+    },
+    "io.pushpay.atlantachristianchurch": {
+      "name": "Atlanta Christian Church",
+      "csv_line": 340592,
+      "price": "0"
+    },
+    "com.acedb.bulkcontactcreate": {
+      "name": "Excel To Contacts - import xlsx files",
+      "csv_line": 340593,
+      "price": "True"
+    },
+    "com.Adzectstudios.Girlfriend.photo.editor": {
+      "name": "Girlfriend Photo Editor",
+      "csv_line": 340594,
+      "price": "True"
+    },
+    "com.motifkebayawanitamodern.rigall": {
+      "name": "Modern Women's Kebaya Model",
+      "csv_line": 340595,
+      "price": "True"
+    },
+    "com.oldmouse.real.car.drifting.racing.free": {
+      "name": "Real Car: Drift Racing Rivals game 2018",
+      "csv_line": 340596,
+      "price": "True"
+    },
+    "com.andromo.dev592442.app627125": {
+      "name": "Back Workout!",
+      "csv_line": 340597,
+      "price": "True"
+    },
+    "com.paullipnyagov.rhythms": {
+      "name": "Rhythms - Learn How To Make Beats And Music",
+      "csv_line": 340598,
+      "price": "True"
+    },
+    "com.penpower.xiaoyaoxinli": {
+      "name": "\u900d\u9059\u5fc3\u7406-\u60a8\u53e3\u888b\u5167\u7684\u4eba\u751f\u76f8\u8ac7\u5ba4",
+      "csv_line": 340601,
+      "price": "0"
+    },
+    "com.app.floorcarlingpigapp": {
+      "name": "\u30d5\u30ed\u30a2\u30ab\u30fc\u30ea\u30f3\u30b0\u8c5a",
+      "csv_line": 340603,
+      "price": "0"
+    },
+    "com.bemymedia.com.app": {
+      "name": "be. my media",
+      "csv_line": 340604,
+      "price": "True"
+    },
+    "air.hangingchallengefree": {
+      "name": "Hangman Hanging Challenge Free",
+      "csv_line": 340605,
+      "price": "0"
+    },
+    "com.mrdhgy.wallpaperslandmarks2020": {
+      "name": "Wallpapers Landmarks 2020",
+      "csv_line": 340607,
+      "price": "0"
+    },
+    "com.a3web.ollainville": {
+      "name": "Ollainville",
+      "csv_line": 340608,
+      "price": "0"
+    },
+    "com.livephoto.live_wallpaper.fireworkspro": {
+      "name": "Fireworks Live Wallpaper PRO",
+      "csv_line": 340609,
+      "price": "1.49"
+    },
+    "com.farabi.fashion.girls.kurti": {
+      "name": "Traditional Girl Kurti Collection - Summer Suit",
+      "csv_line": 340610,
+      "price": "True"
+    },
+    "agmi.chimpanzee.puzzle": {
+      "name": "Chimpanzee Puzzle",
+      "csv_line": 340611,
+      "price": "0"
+    },
+    "com.haedenbridge.moyeee.meeting": {
+      "name": "\"BreakOut - Video Conference,Meeting,Seminar\"",
+      "csv_line": 340612,
+      "price": "True"
+    },
+    "com.powermob.fgnovantuno": {
+      "name": "FG91 Fastream",
+      "csv_line": 340613,
+      "price": "0"
+    },
+    "com.laplata.gov.ar.reclamos": {
+      "name": "147 MLP",
+      "csv_line": 340615,
+      "price": "0"
+    },
+    "com.dpcg.enzymsuppletie": {
+      "name": "Alvleesklierenzymen",
+      "csv_line": 340616,
+      "price": "0"
+    },
+    "air.net.shiftup.yrz2": {
+      "name": "Yorozuya RPG",
+      "csv_line": 340617,
+      "price": "True"
+    },
+    "com.ezjoynetwork.bubblebirdRescue2": {
+      "name": "Bubble Bird Rescue 2 - Shoot!",
+      "csv_line": 340618,
+      "price": "2885702"
+    },
+    "com.essay.writingguide": {
+      "name": "How To Write an Essay",
+      "csv_line": 340619,
+      "price": "True"
+    },
+    "com.appsmasivas.oratoriayliderazgo": {
+      "name": "Curso de Oratoria y Liderazgo",
+      "csv_line": 340621,
+      "price": "True"
+    },
+    "com.araba.wallpapers.lips": {
+      "name": "Lip Wallpapers",
+      "csv_line": 340622,
+      "price": "True"
+    },
+    "com.IgnitionImmersive.DCE.AR": {
+      "name": "Chin Kaw's Shop",
+      "csv_line": 340623,
+      "price": "0"
+    },
+    "com.millionapps.birthdayvideomaker": {
+      "name": "Birthday Photo Video Maker 2020",
+      "csv_line": 340624,
+      "price": "0"
+    },
+    "com.fop.fop117": {
+      "name": "FOP 117",
+      "csv_line": 340628,
+      "price": "0"
+    },
+    "com.mg.swippyswipe": {
+      "name": "Swippy Swipe",
+      "csv_line": 340629,
+      "price": "True"
+    },
+    "com.some.hasan.foras3amal": {
+      "name": "\u0641\u0631\u0635 \u0639\u0645\u0644 \u0641\u064a \u0644\u0628\u0646\u0627\u0646",
+      "csv_line": 340631,
+      "price": "True"
+    },
+    "com.sisupsychology.app": {
+      "name": "Sisu Habit App",
+      "csv_line": 340635,
+      "price": "0"
+    },
+    "org.malvadosound.mastersofart": {
+      "name": "ARm",
+      "csv_line": 340636,
+      "price": "0"
+    },
+    "com.logmein.seeit.customer": {
+      "name": "GoToAssist Seeit",
+      "csv_line": 340637,
+      "price": "True"
+    },
+    "com.innovation.numbershooter": {
+      "name": "Number Shooter : Brick Breaker",
+      "csv_line": 340639,
+      "price": "True"
+    },
+    "com.fedena.vsiad": {
+      "name": "VIDYA SPOORTI INTERNATIONAL ACADEMY",
+      "csv_line": 340642,
+      "price": "0"
+    },
+    "com.onexlabs.garden.photoframes": {
+      "name": "Garden Photo Frames",
+      "csv_line": 340643,
+      "price": "1607788"
+    },
+    "videoplayer.video.mp4.music": {
+      "name": "\"HD Video Player All Format, mkv player, avi player\"",
+      "csv_line": 340646,
+      "price": "True"
+    },
+    "com.hangseng.invex": {
+      "name": "Hang Seng Invest Express",
+      "csv_line": 340647,
+      "price": "True"
+    },
+    "com.spun.puzzlephoto": {
+      "name": "Jigsaw Puzzle Photo",
+      "csv_line": 340648,
+      "price": "True"
+    },
+    "com.catstudio.nekostory.tw": {
+      "name": "\u8c93\u5c11\u5e74\u5496\u5561\u5ef3",
+      "csv_line": 340649,
+      "price": "True"
+    },
+    "ru.vgtrofimov.cc_python": {
+      "name": "\u0421\u0435\u0440\u0442\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044f \u0437\u043d\u0430\u043d\u0438\u0439 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u043d\u0430 Python/CC",
+      "csv_line": 340650,
+      "price": "0"
+    },
+    "com.ricardodecarvalho.planningpoker": {
+      "name": "Planning Poker",
+      "csv_line": 340651,
+      "price": "0"
+    },
+    "com.offline.routemaps.gps.directionfinder.free": {
+      "name": "GPS Offline Navigation Route Maps & Direction",
+      "csv_line": 340653,
+      "price": "True"
+    },
+    "app.blanca.RohaniIlajHindi40": {
+      "name": "Rohani 40 Illaj in Hindi",
+      "csv_line": 340655,
+      "price": "True"
+    },
+    "com.ArthikKaryBidhi2076.eduapp": {
+      "name": "Arthik Karya Bidhi Ain 2076",
+      "csv_line": 340656,
+      "price": "0"
+    },
+    "it.sixtyfour.bit.app5de94722ce89c": {
+      "name": "SC - SKI RACING TEAM",
+      "csv_line": 340657,
+      "price": "0"
+    },
+    "com.technopaths.health.bmr.weight.water.calorie.bmi.calculator": {
+      "name": "\"Health Calculator ( BMI ,BMR ,Weight and more)\"",
+      "csv_line": 340659,
+      "price": "0"
+    },
+    "com.christophermartellxcmx.hudz": {
+      "name": "CMX - HUD Z \u00b7 KLWP Theme",
+      "csv_line": 340662,
+      "price": "1.49"
+    },
+    "co.varys.estcp": {
+      "name": "GENIC",
+      "csv_line": 340664,
+      "price": "0"
+    },
+    "co.alexis.tazib": {
+      "name": "Bureaucrats",
+      "csv_line": 340665,
+      "price": "0"
+    },
+    "comsoft.bankterminal": {
+      "name": "Bank Terminal",
+      "csv_line": 340669,
+      "price": "0"
+    },
+    "com.kitchendesign.riplowdroids": {
+      "name": "kitchen design",
+      "csv_line": 340670,
+      "price": "True"
+    },
+    "com.subsplashconsulting.s_M5PRKZ": {
+      "name": "Mountain Life McCall",
+      "csv_line": 340671,
+      "price": "0"
+    },
+    "com.emrg.games.bloomblast": {
+      "name": "Flowers Blast - flower games",
+      "csv_line": 340672,
+      "price": "True"
+    },
+    "com.sappsuma.pcmotors": {
+      "name": "PC Motors",
+      "csv_line": 340673,
+      "price": "0"
+    },
+    "com.weejim.app.londonTube": {
+      "name": "London Transport Live",
+      "csv_line": 340674,
+      "price": "True"
+    },
+    "com.jaboston.doggames": {
+      "name": "GAMES FOR DOGS",
+      "csv_line": 340676,
+      "price": "True"
+    },
+    "fr.restaurantfujin.storelocator": {
+      "name": "Restaurant Fujin",
+      "csv_line": 340677,
+      "price": "0"
+    },
+    "de.magames.pingpingpong": {
+      "name": "Pong's Adventure",
+      "csv_line": 340678,
+      "price": "0"
+    },
+    "cnconestop.training": {
+      "name": "CNCTraining",
+      "csv_line": 340679,
+      "price": "True"
+    },
+    "com.whiteplainshonda.dealerapp": {
+      "name": "White Plains Honda DealerApp",
+      "csv_line": 340680,
+      "price": "0"
+    },
+    "com.florentalbero.tawo": {
+      "name": "Taw\u00f6 - Jeu caritatif et engag\u00e9",
+      "csv_line": 340681,
+      "price": "True"
+    },
+    "com.customchurchapps.crestwoodvineyard": {
+      "name": "Crestwood Vineyard",
+      "csv_line": 340682,
+      "price": "0"
+    },
+    "com.troponine": {
+      "name": "Cardiac Troponin T Algorithm",
+      "csv_line": 340683,
+      "price": "0"
+    },
+    "com.myaccounts.myfootwear": {
+      "name": "MyPos-FootWear",
+      "csv_line": 340686,
+      "price": "0"
+    },
+    "br.com.fulltime.strack.mobile": {
+      "name": "S-Track",
+      "csv_line": 340687,
+      "price": "0"
+    },
+    "com.rongpencil.shapla": {
+      "name": "Shapla - Bangla News Reader | \u09ac\u09be\u099b\u09be\u0987 \u0995\u09b0\u09be \u09ac\u09be\u0982\u09b2\u09be \u0996\u09ac\u09b0",
+      "csv_line": 340688,
+      "price": "0"
+    },
+    "com.orderdirectly.marmarisnewcastle": {
+      "name": "\"Marmaris, Newcastle\"",
+      "csv_line": 340689,
+      "price": "0"
+    },
+    "com.abm.hlt": {
+      "name": "How long till...",
+      "csv_line": 340691,
+      "price": "0"
+    },
+    "com.gotandem.wlcuerpodepastoresq": {
+      "name": "CPQ",
+      "csv_line": 340692,
+      "price": "0"
+    },
+    "com.andromo.dev663676.app670781": {
+      "name": "Lil Ameer",
+      "csv_line": 340693,
+      "price": "True"
+    },
+    "com.elgorje.abfrclasen": {
+      "name": "AudioBooks: French classics",
+      "csv_line": 340694,
+      "price": "True"
+    },
+    "com.dodemy.acssm.AOVYPBRXGAZOTFOC": {
+      "name": "DNDN ADULT SUNDAY SCHOOL",
+      "csv_line": 340696,
+      "price": "True"
+    },
+    "com.fonts_free.free_fonts": {
+      "name": "Free Fonts | Get Free Fonts",
+      "csv_line": 340697,
+      "price": "True"
+    },
+    "com.radioamfm.CA1075davefm": {
+      "name": "CA 1075 dave fm",
+      "csv_line": 340698,
+      "price": "0"
+    },
+    "com.goodbadbetween.app": {
+      "name": "TRUE ODE -  More than just a face!",
+      "csv_line": 340699,
+      "price": "0"
+    },
+    "com.aajka.bhagya": {
+      "name": "Aaj ka Bhagya Rashifal 2016",
+      "csv_line": 340701,
+      "price": "True"
+    },
+    "com.ipmobilesolutions.wallpaperscutecats": {
+      "name": "Cute cats wallpapers",
+      "csv_line": 340702,
+      "price": "0"
+    },
+    "com.ascendapps.timestampcamera.trial": {
+      "name": "Camera Timestamp Free",
+      "csv_line": 340703,
+      "price": "True"
+    },
+    "com.tecware.car25": {
+      "name": "Car25",
+      "csv_line": 340704,
+      "price": "0"
+    },
+    "com.extensions4bc.expenses4bc": {
+      "name": "Expenses 4 Microsoft Dynamics 365 Business Central",
+      "csv_line": 340705,
+      "price": "0"
+    },
+    "com.phorest.clippersbladeetc": {
+      "name": "\"Clippers & Blade, etc.\"",
+      "csv_line": 340706,
+      "price": "0"
+    },
+    "co.shopney.zapplepk": {
+      "name": "Zapple",
+      "csv_line": 340707,
+      "price": "True"
+    },
+    "com.darktornado.metromap": {
+      "name": "\uc804\ucca0 \ub178\uc120\ub3c4",
+      "csv_line": 340708,
+      "price": "True"
+    },
+    "free_translator.ruen": {
+      "name": "Russian-English Translator",
+      "csv_line": 340711,
+      "price": "True"
+    },
+    "com.speedymarks.android.sunclockfree": {
+      "name": "Sun Clock Free",
+      "csv_line": 340712,
+      "price": "True"
+    },
+    "com.upsidelms.albatha": {
+      "name": "Albatha LMS",
+      "csv_line": 340713,
+      "price": "0"
+    },
+    "com.osifeso.deborah": {
+      "name": "DEBORAH",
+      "csv_line": 340714,
+      "price": "0"
+    },
+    "com.pierwiastek.gpsdataplus": {
+      "name": "GPS Data+",
+      "csv_line": 340717,
+      "price": "False"
+    },
+    "com.healthapps.brunch": {
+      "name": "Brunch Bites - Breakfast Recipes & Grocery Lists",
+      "csv_line": 340719,
+      "price": "0"
+    },
+    "com.cloudcreative.islamicaudiolibrary": {
+      "name": "Islamic Audio Library",
+      "csv_line": 340721,
+      "price": "True"
+    },
+    "com.team.profit": {
+      "name": "Team Profit - Matched Betting Guide",
+      "csv_line": 340722,
+      "price": "True"
+    },
+    "com.live.liveline": {
+      "name": "IPL Live Line 2021 ( FASTEST CRICKET LIVE LINE )",
+      "csv_line": 340725,
+      "price": "0"
+    },
+    "br.com.designmaster.b2": {
+      "name": "Seja B2",
+      "csv_line": 340726,
+      "price": "True"
+    },
+    "com.netk.nekomekke": {
+      "name": "Nekomekke",
+      "csv_line": 340727,
+      "price": "0"
+    },
+    "appinventor.ai_rafaelf319.Onde_deixei_meu_carro": {
+      "name": "Onde Deixei Meu Carro ++",
+      "csv_line": 340728,
+      "price": "True"
+    },
+    "digifit.android.virtuagym.pro.purecomfort": {
+      "name": "Pure Comfort Wellness Solution",
+      "csv_line": 340729,
+      "price": "0"
+    },
+    "com.mutiaradev.cara_topup_shopay": {
+      "name": "Cara Top Up ShopeePay - Panduan",
+      "csv_line": 340730,
+      "price": "True"
+    },
+    "com.afra.basicnursingandgeneralcareplans": {
+      "name": "Basic Nursing and General Care Plans",
+      "csv_line": 340731,
+      "price": "True"
+    },
+    "themestack.honor9.honor9x.honor9xpro.honor9xwalls.launcher.theme": {
+      "name": "Wallpaper for Honor 9x / Theme for honor 9x",
+      "csv_line": 340732,
+      "price": "0"
+    },
+    "com.viljatorimobile": {
+      "name": "Viljatori",
+      "csv_line": 340734,
+      "price": "0"
+    },
+    "com.seventrecode.thundersales": {
+      "name": "Thunder Sales",
+      "csv_line": 340735,
+      "price": "0"
+    },
+    "com.appswiz.novamazoniaijeah": {
+      "name": "NOVAMAZONIA",
+      "csv_line": 340736,
+      "price": "0"
+    },
+    "com.ipmobilesolutions.wallpapersgrayabstract": {
+      "name": "Gray abstract wallpapers",
+      "csv_line": 340737,
+      "price": "0"
+    },
+    "com.c2d.app": {
+      "name": "Connect2Drs",
+      "csv_line": 340738,
+      "price": "0"
+    },
+    "apps.webbooks.the_forsyte_saga": {
+      "name": "The Forsyte Saga \u2013 Public Domain",
+      "csv_line": 340742,
+      "price": "0"
+    },
+    "com.johntibell.thebibledramatizedaudio": {
+      "name": "The Bible - Dramatized Audio",
+      "csv_line": 340744,
+      "price": "True"
+    },
+    "com.rebellion.zombiehq": {
+      "name": "Zombie HQ",
+      "csv_line": 340745,
+      "price": "2378738"
+    },
+    "com.edictonary.Petroleum.Engineering": {
+      "name": "Petroleum engineering Dictionary",
+      "csv_line": 340746,
+      "price": "True"
+    },
+    "com.deltek.dps.time": {
+      "name": "Deltek T&E for Vantagepoint",
+      "csv_line": 340747,
+      "price": "True"
+    },
+    "selfie.photo.apps.nation": {
+      "name": "Nation face scanner: ethnic origin",
+      "csv_line": 340748,
+      "price": "True"
+    },
+    "com.BedroomDesignLevel.codetapps": {
+      "name": "Bedroom level design",
+      "csv_line": 340749,
+      "price": "0"
+    },
+    "com.Medar.MatDuo": {
+      "name": "2 player and 1 player math game: Matduo",
+      "csv_line": 340750,
+      "price": "0"
+    },
+    "com.radio96fm.radio": {
+      "name": "Radio 96 FM - Rio Verde",
+      "csv_line": 340751,
+      "price": "True"
+    },
+    "com.tambucho.inforadars.trial": {
+      "name": "InfoRadars",
+      "csv_line": 340752,
+      "price": "0"
+    },
+    "com.bhappdevelopment.ericpiccothompson": {
+      "name": "EPT FIT",
+      "csv_line": 340753,
+      "price": "0"
+    },
+    "it.toelettapp": {
+      "name": "ToelettAPP",
+      "csv_line": 340754,
+      "price": "0"
+    },
+    "com.magmamobile.game.mahjong2d.paid": {
+      "name": "Mahjong (Ad free)",
+      "csv_line": 340757,
+      "price": "False"
+    },
+    "com.PyramidaGames.BlockPuzzleStone": {
+      "name": "Block Puzzle: Fauna style",
+      "csv_line": 340759,
+      "price": "True"
+    },
+    "com.ronimusic.asdlite": {
+      "name": "Amazing Slow Downer Lite",
+      "csv_line": 340761,
+      "price": "True"
+    },
+    "com.FNDBYRZ.KAHVEFALIBAK": {
+      "name": "Kahve Fal\u0131 Bak",
+      "csv_line": 340763,
+      "price": "True"
+    },
+    "com.AppBot.AmoungUsButton": {
+      "name": "Emergency Button Among Us",
+      "csv_line": 340764,
+      "price": "True"
+    },
+    "com.AnubhavMedia.MonkeyWorld": {
+      "name": "Monkey World",
+      "csv_line": 340765,
+      "price": "0"
+    },
+    "aladin888.dessin": {
+      "name": "Drawing Games",
+      "csv_line": 340766,
+      "price": "1342534"
+    },
+    "com.purplecarrot.master.assassin": {
+      "name": "Master Assassin -action bullet agent rush dodge 3D",
+      "csv_line": 340768,
+      "price": "0"
+    },
+    "com.parksidecu.parkside": {
+      "name": "Parkside Credit Union",
+      "csv_line": 340769,
+      "price": "True"
+    },
+    "com.adeal.OrangeVanDelivery": {
+      "name": "Dex Van Delivery",
+      "csv_line": 340770,
+      "price": "0"
+    },
+    "com.yatahwan.HoRemedJock": {
+      "name": "Home Remedies for Jock Itch",
+      "csv_line": 340771,
+      "price": "0"
+    },
+    "com.good.night.dual.photo.frame": {
+      "name": "Night Dual Photo Frames",
+      "csv_line": 340772,
+      "price": "True"
+    },
+    "nl.sitedish.tao": {
+      "name": "Tao",
+      "csv_line": 340774,
+      "price": "0"
+    },
+    "com.delivery.barSeuJoao": {
+      "name": "Bar seu Jo\u00e3o",
+      "csv_line": 340775,
+      "price": "0"
+    },
+    "tw.com.peugeot.autonet": {
+      "name": "PEUGEOT News",
+      "csv_line": 340779,
+      "price": "0"
+    },
+    "com.gamingsqaure.police.bus.driving.simulator.us.cops.coach.drive": {
+      "name": "Police Bus Driving Simulator: US Cops Coach Drive",
+      "csv_line": 340781,
+      "price": "True"
+    },
+    "tirenn.com": {
+      "name": "tirenn",
+      "csv_line": 340782,
+      "price": "0"
+    },
+    "com.mrsoft.apnakirana": {
+      "name": "Apna Kirana",
+      "csv_line": 340783,
+      "price": "0"
+    },
+    "co.shield.yibov": {
+      "name": "APEX INTERNATIONAL SCHOOL",
+      "csv_line": 340785,
+      "price": "0"
+    },
+    "com.andromo.dev753332.app886544": {
+      "name": "Love",
+      "csv_line": 340787,
+      "price": "0"
+    },
+    "com.OmInfotech.ClockShooter": {
+      "name": "Clock Shooter",
+      "csv_line": 340790,
+      "price": "0"
+    },
+    "tomonoku.nwatr.nwt": {
+      "name": "NW Assistant NWT 2013",
+      "csv_line": 340791,
+      "price": "True"
+    },
+    "com.remitap.mblnepal": {
+      "name": "Remitap by MBL",
+      "csv_line": 340792,
+      "price": "True"
+    },
+    "com.catanddogsoft.searchaddr": {
+      "name": "\"\uc2e0\uc6b0\ud3b8\ubc88\ud638\ucc3e\uae30 (\ub3c4\ub85c\uba85\uc8fc\uc18c, \uc0c8\uc601\ubb38\uc8fc\uc18c, \uc0c8\uc8fc\uc18c, \uc0c8\uc6b0\ud3b8\ubc88\ud638 \uac80\uc0c9)\"",
+      "csv_line": 340794,
+      "price": "True"
+    },
+    "com.strudel.alexeyool.strudel": {
+      "name": "Strudel IL",
+      "csv_line": 340796,
+      "price": "0"
+    },
+    "com.saitech.riddles": {
+      "name": "Naughty Riddles",
+      "csv_line": 340797,
+      "price": "True"
+    },
+    "id.jebusiness.cemara": {
+      "name": "Cemara Sunday Market",
+      "csv_line": 340799,
+      "price": "0"
+    },
+    "fr.sdis62.mobilcos": {
+      "name": "MobilCOS",
+      "csv_line": 340800,
+      "price": "0"
+    },
+    "com.alfaondo.Magician": {
+      "name": "Magician",
+      "csv_line": 340801,
+      "price": "0"
+    },
+    "com.qdevelop.cannonmaster": {
+      "name": "Cannon: Master Shooting",
+      "csv_line": 340802,
+      "price": "True"
+    },
+    "net.apploadyou.apps.android5f2e94c60752a": {
+      "name": "Ambi Hose Lingerie",
+      "csv_line": 340803,
+      "price": "0"
+    },
+    "com.mysteryisolve.christmashunt": {
+      "name": "Free Hidden Object Games Free New Christmas Hunt",
+      "csv_line": 340805,
+      "price": "0"
+    },
+    "com.e.samsungmobilepricesandspecs": {
+      "name": "Samsung Mobile Prices And Specs",
+      "csv_line": 340806,
+      "price": "0"
+    },
+    "com.logicspice.raydaar": {
+      "name": "Raydaar",
+      "csv_line": 340807,
+      "price": "0"
+    },
+    "com.britnex.web20calc_free": {
+      "name": "web2.0calc (free)",
+      "csv_line": 340808,
+      "price": "True"
+    },
+    "com.comcsoft.izip": {
+      "name": "iZip - Zip Unzip Tool",
+      "csv_line": 340809,
+      "price": "True"
+    },
+    "ve.org.visualsat1": {
+      "name": "JAC TRACKER",
+      "csv_line": 340810,
+      "price": "0"
+    },
+    "com.streetgan.fightse": {
+      "name": "Street Gang Fights",
+      "csv_line": 340811,
+      "price": "True"
+    },
+    "com.narodev.transport": {
+      "name": "Shyma",
+      "csv_line": 340812,
+      "price": "True"
+    },
+    "com.map2app.U6219819875565568A5764640680181760": {
+      "name": "Singapore Heritage",
+      "csv_line": 340813,
+      "price": "True"
+    },
+    "com.aerostatmaps.srilanka": {
+      "name": "Sri Lanka Offline Map and Travel Guide",
+      "csv_line": 340814,
+      "price": "True"
+    },
+    "com.nautyly.chutkuleyn": {
+      "name": "Naughty chutkule",
+      "csv_line": 340816,
+      "price": "True"
+    },
+    "com.ghm.cjonline": {
+      "name": "Topeka Capital-Journal",
+      "csv_line": 340819,
+      "price": "True"
+    },
+    "com.ipcsearch": {
+      "name": "IPC Search",
+      "csv_line": 340820,
+      "price": "True"
+    },
+    "com.aeonsparx.skylinehero": {
+      "name": "Skyline Hero",
+      "csv_line": 340822,
+      "price": "0"
+    },
+    "ams.zaamin.ltst": {
+      "name": "AMS ZAAMIN",
+      "csv_line": 340823,
+      "price": "0"
+    },
+    "fr.connectwe.wepriseeco": {
+      "name": "We Prise ECO",
+      "csv_line": 340824,
+      "price": "0"
+    },
+    "com.thutatravel.inle": {
+      "name": "Inle Myanmar",
+      "csv_line": 340826,
+      "price": "0"
+    },
+    "ch.yws.apps.nextdate": {
+      "name": "Next Date",
+      "csv_line": 340828,
+      "price": "True"
+    },
+    "ie.flipdish.fd3094": {
+      "name": "Porky Pig Street Food",
+      "csv_line": 340829,
+      "price": "True"
+    },
+    "com.galaxy.indian_railway_schedule": {
+      "name": "Indian Railway Time Table",
+      "csv_line": 340830,
+      "price": "0"
+    },
+    "com.local.women.snaptexting.online": {
+      "name": "Swap Texting: Trade Pics with Local Women Online",
+      "csv_line": 340831,
+      "price": "0"
+    },
+    "net.soti.hub": {
+      "name": "SOTI Hub",
+      "csv_line": 340832,
+      "price": "True"
+    },
+    "air.NssMathsItutorAndroid": {
+      "name": "Maths  iTutor",
+      "csv_line": 340834,
+      "price": "0"
+    },
+    "fr.tailora.kinetiremavert": {
+      "name": "ECOQUARTIER REMAVERT REIMS",
+      "csv_line": 340836,
+      "price": "0"
+    },
+    "horoscope.kazakh.kazakhstan": {
+      "name": "\u0416\u04b1\u043b\u0434\u044b\u0437\u043d\u0430\u043c\u0430",
+      "csv_line": 340837,
+      "price": "True"
+    },
+    "com.lirg2206.radiosdebielorrusiagratisonline": {
+      "name": "RadioLirg Bielorrusia",
+      "csv_line": 340838,
+      "price": "0"
+    },
+    "com.chownow.doughinthebox": {
+      "name": "Dough In The Box",
+      "csv_line": 340839,
+      "price": "0"
+    },
+    "com.yeastar.linkus": {
+      "name": "Yeastar Linkus Mobile Client",
+      "csv_line": 340841,
+      "price": "True"
+    },
+    "dh3games.generalknowledgequiz": {
+      "name": "General Knowledge Quiz With Answers",
+      "csv_line": 340842,
+      "price": "True"
+    },
+    "net.mylifeorganized.mlo": {
+      "name": "MyLifeOrganized: To-Do List",
+      "csv_line": 340844,
+      "price": "True"
+    },
+    "com.handcent.sms.skin.ancientlegend": {
+      "name": "Next SMS Ancient legend Skin",
+      "csv_line": 340845,
+      "price": "True"
+    },
+    "com.teknar.passline": {
+      "name": "Passline: Ara\u00e7 Takip Sistemi",
+      "csv_line": 340847,
+      "price": "0"
+    },
+    "master.voice.calculator": {
+      "name": "Voice calculater",
+      "csv_line": 340848,
+      "price": "True"
+    },
+    "com.flappydragonthegame.overlapps": {
+      "name": "Flappy Dragon The Game",
+      "csv_line": 340849,
+      "price": "0"
+    },
+    "com.ambulance.call": {
+      "name": "Ambulance Emergency",
+      "csv_line": 340852,
+      "price": "0"
+    },
+    "net.xioci.evento4350id4734": {
+      "name": "LA FEDE",
+      "csv_line": 340854,
+      "price": "0"
+    },
+    "com.osfunapps.DishTVRemote": {
+      "name": "Remote Control For DishTV",
+      "csv_line": 340855,
+      "price": "2041162"
+    },
+    "com.tuinbit.cfvfoodtrading": {
+      "name": "CFV",
+      "csv_line": 340856,
+      "price": "0"
+    },
+    "tw.com.mebook.mbivyeh040lite": {
+      "name": "\u9016\u514b\u905c\u6210\u8a9e\uff08\u56b4\u9078\u7bc7\uff09",
+      "csv_line": 340858,
+      "price": "True"
+    },
+    "com.mirisystems.MiriIDVault": {
+      "name": "MiriID Vault",
+      "csv_line": 340859,
+      "price": "0"
+    },
+    "com.danilo.perfetti.stayathomeit2020": {
+      "name": "StayAtHomeIT2020",
+      "csv_line": 340860,
+      "price": "0"
+    },
+    "com.spencer_studios.proximitysensortest": {
+      "name": "\"Proximity Sensor Test, Counter & Info\"",
+      "csv_line": 340861,
+      "price": "0"
+    },
+    "com.livephoto.live_wallpaper.lights": {
+      "name": "Lights Live Wallpaper",
+      "csv_line": 340865,
+      "price": "True"
+    },
+    "com.avoidaffintivy": {
+      "name": "Avoid Affinaty",
+      "csv_line": 340867,
+      "price": "0"
+    },
+    "com.cocoradio.country.ec": {
+      "name": "Radio Ecuador - Radio FM Ecuador",
+      "csv_line": 340868,
+      "price": "0"
+    },
+    "ncert.cbse.classes.history.book.pdf": {
+      "name": "NCERT and CBSE History Books",
+      "csv_line": 340869,
+      "price": "0"
+    },
+    "io.knackscan.knackscan": {
+      "name": "Barcode Scanner for Knack",
+      "csv_line": 340871,
+      "price": "0"
+    },
+    "grand.trucksimulator2novidades": {
+      "name": "Skins Grand Truck Simulator 2 - GTS 2",
+      "csv_line": 340872,
+      "price": "True"
+    },
+    "com.parshva.goldeng": {
+      "name": "Golden Goonj News",
+      "csv_line": 340873,
+      "price": "0"
+    },
+    "air.com.hallbergryman.fabuloPortuguese": {
+      "name": "Learn Portuguese - Fabulo",
+      "csv_line": 340876,
+      "price": "True"
+    },
+    "com.diegoprofissional.brainportfran": {
+      "name": "Jogo da Palavra PF",
+      "csv_line": 340879,
+      "price": "0.99"
+    },
+    "ro.gebs.zoniz.reservations": {
+      "name": "Zoniz Waiter",
+      "csv_line": 340886,
+      "price": "0"
+    },
+    "com.nobexinc.wls_8906872305.rc": {
+      "name": "Orgelradio",
+      "csv_line": 340889,
+      "price": "0"
+    },
+    "com.whatstyle.bodybeautifulbyjade": {
+      "name": "Body Beautiful By Jade",
+      "csv_line": 340891,
+      "price": "0"
+    },
+    "com.ezeetechnosys.ezeeoptimus": {
+      "name": "RapidServe - eZee Optimus",
+      "csv_line": 340892,
+      "price": "True"
+    },
+    "com.pondoksalam.dewi": {
+      "name": "Dewi Boutique",
+      "csv_line": 340894,
+      "price": "0"
+    },
+    "com.SuperBattleAxe.SourPinesGolf": {
+      "name": "Sour Pines Golf - Fun Multiplayer Crazy Golf Game",
+      "csv_line": 340895,
+      "price": "0"
+    },
+    "com.trainerize.fitfabtrainingandcompprep": {
+      "name": "FitFab Training and Comp Prep",
+      "csv_line": 340900,
+      "price": "0"
+    },
+    "com.unboundgamestudio.chubbystoriesairplane": {
+      "name": "Chubby Stories - Airplane",
+      "csv_line": 340902,
+      "price": "0"
+    },
+    "io.cordova.RegionStavangerApp": {
+      "name": "ShowMe Stavanger",
+      "csv_line": 340903,
+      "price": "True"
+    },
+    "com.andricapps.silkthreadjewellerydesignsmodels": {
+      "name": "Silk Thread Jewellery Designs",
+      "csv_line": 340904,
+      "price": "True"
+    },
+    "com.sourceamax.myMRS": {
+      "name": "myMRS",
+      "csv_line": 340905,
+      "price": "True"
+    },
+    "com.hanegames.kelimebul": {
+      "name": "TV2 Kelime Bul Oyunu",
+      "csv_line": 340906,
+      "price": "True"
+    },
+    "com.tutorial.salam.pokepricecheck": {
+      "name": "TCG Price Check",
+      "csv_line": 340907,
+      "price": "True"
+    },
+    "com.netwise.chatapp": {
+      "name": "EasyDating",
+      "csv_line": 340908,
+      "price": "0"
+    },
+    "com.dunamis.world.parentapp": {
+      "name": "Lokate Student",
+      "csv_line": 340909,
+      "price": "True"
+    },
+    "com.imactivate.MA": {
+      "name": "Material Alchemy",
+      "csv_line": 340911,
+      "price": "0"
+    },
+    "com.bhagvat.gita.nepali": {
+      "name": "Nepali Bhagwat Gita Katha",
+      "csv_line": 340912,
+      "price": "0"
+    },
+    "cs.fvsc.apk": {
+      "name": "RADIO CODE CALC FOR FORD V + M + TRAVELPILOT + ALL",
+      "csv_line": 340913,
+      "price": "9.49"
+    },
+    "jp.entei.freejus": {
+      "name": "\u8d85\u7363\u738b\u30b8\u30e3\u30b9\u30c6\u30a3\u30b9\u3010\u795e\u6a5fSRPG\u7b2c1\u5f3e\u3011",
+      "csv_line": 340916,
+      "price": "True"
+    },
+    "com.coderbro.tutorial.javaitalian": {
+      "name": "Java Italiano",
+      "csv_line": 340917,
+      "price": "0"
+    },
+    "com.rentracks.game.free.popstarseason": {
+      "name": "Pop Pop - Popstar Season",
+      "csv_line": 340918,
+      "price": "True"
+    },
+    "com.discoverukraine.metro.prague": {
+      "name": "Prague Metro Guide and Subway Route Planner",
+      "csv_line": 340919,
+      "price": "True"
+    },
+    "vn.sags.phonebook": {
+      "name": "PhoneBook",
+      "csv_line": 340921,
+      "price": "0"
+    },
+    "com.brabea786.dua_ka_khazana": {
+      "name": "Dua ka khazana & qurani wazaif for hajat",
+      "csv_line": 340922,
+      "price": "0"
+    },
+    "cheprasov.egor.minmath2_0": {
+      "name": "MinMath: \u041f\u0440\u043e\u0441\u0442\u043e\u0439 \u043a\u0430\u043b\u044c\u043a\u0443\u043b\u044f\u0442\u043e\u0440",
+      "csv_line": 340923,
+      "price": "0"
+    },
+    "com.abe_soft.easymaintmobile": {
+      "name": "Easy Maint Mobile",
+      "csv_line": 340925,
+      "price": "0"
+    },
+    "com.backfire": {
+      "name": "Backfire",
+      "csv_line": 340926,
+      "price": "0"
+    },
+    "co.vixt.vixt": {
+      "name": "VixT - Video mashup from texT",
+      "csv_line": 340927,
+      "price": "True"
+    },
+    "com.thriftigo.android": {
+      "name": "Thriftigo: Thrift stores & secondhand shops nearby",
+      "csv_line": 340929,
+      "price": "True"
+    },
+    "com.mandrillvr.AncientBattleioV5": {
+      "name": "King's Crystal",
+      "csv_line": 340930,
+      "price": "0"
+    },
+    "com.tipsyfoods.customer": {
+      "name": "Tipsy Foods",
+      "csv_line": 340931,
+      "price": "0"
+    },
+    "com.hidile.impetor": {
+      "name": "Impetor",
+      "csv_line": 340932,
+      "price": "0"
+    },
+    "com.accaglobal.studentaccountant": {
+      "name": "Student Accountant",
+      "csv_line": 340933,
+      "price": "True"
+    },
+    "com.TeamTangledTape.CosCas": {
+      "name": "Cosette's Cassettes",
+      "csv_line": 340935,
+      "price": "True"
+    },
+    "appinventor.ai_martingala_ruleta.Martingala_ruleta": {
+      "name": "Martingala para ruleta",
+      "csv_line": 340936,
+      "price": "0"
+    },
+    "com.PoiLakeGames.SumBalls": {
+      "name": "SumBalls",
+      "csv_line": 340937,
+      "price": "True"
+    },
+    "in.redback.groups.apps.wefixz": {
+      "name": "Wefixz",
+      "csv_line": 340938,
+      "price": "0"
+    },
+    "com.palm.astrology": {
+      "name": "Astrology & Palm Master",
+      "csv_line": 340939,
+      "price": "True"
+    },
+    "com.ensense.mobile": {
+      "name": "Ensense (Beta)",
+      "csv_line": 340940,
+      "price": "0"
+    },
+    "com.ar.bn": {
+      "name": "Bangla Arabic Dictionary",
+      "csv_line": 340944,
+      "price": "True"
+    },
+    "com.mightybell.octomembers": {
+      "name": "Octo Members",
+      "csv_line": 340946,
+      "price": "0"
+    },
+    "com.stefanroobol.babycarelog": {
+      "name": "Baby Care Log & Tracker",
+      "csv_line": 340949,
+      "price": "True"
+    },
+    "com.nadceutical.laboratories": {
+      "name": "NAD+",
+      "csv_line": 340952,
+      "price": "0"
+    },
+    "com.mobileappsprn.appleautomitsubishi": {
+      "name": "Apple Auto Mitsubishi",
+      "csv_line": 340953,
+      "price": "0"
+    },
+    "com.pskdev.loungemusicradio": {
+      "name": "Lounge Music",
+      "csv_line": 340955,
+      "price": "0"
+    },
+    "com.Zona.Hiburan.Lagu.Dangdut.Terbaik.Iis.Dahlia.lirik.Offline.Ringtone": {
+      "name": "Lagu Dangdut Terbaik Iis Dahlia | Offline+Ringtone",
+      "csv_line": 340956,
+      "price": "True"
+    },
+    "com.lsintel.app": {
+      "name": "Medtech Insider",
+      "csv_line": 340958,
+      "price": "0"
+    },
+    "com.VeloGames2D.StoneRoller": {
+      "name": "Stone Roller: Ball Rollin Madness",
+      "csv_line": 340961,
+      "price": "0"
+    },
+    "com.offershouse": {
+      "name": "OfferHouse",
+      "csv_line": 340964,
+      "price": "0"
+    },
+    "com.flashservices.mobile": {
+      "name": "Flash",
+      "csv_line": 340967,
+      "price": "0"
+    },
+    "com.jks.hiferkap": {
+      "name": "HiferKap",
+      "csv_line": 340969,
+      "price": "0"
+    },
+    "at.firmenabc": {
+      "name": "FirmenABC.at & TelefonABC.at",
+      "csv_line": 340972,
+      "price": "True"
+    },
+    "com.streamsearch.streamer": {
+      "name": "SSL Streamers App",
+      "csv_line": 340973,
+      "price": "0"
+    },
+    "in.co.ceed.kitpublicschool": {
+      "name": "KIT Public School",
+      "csv_line": 340975,
+      "price": "0"
+    },
+    "com.cmgdigital.JNWSBreakingNews": {
+      "name": "Journal-News",
+      "csv_line": 340976,
+      "price": "True"
+    },
+    "com.transit.passengerapp": {
+      "name": "Transit",
+      "csv_line": 340978,
+      "price": "0"
+    },
+    "com.abakicicek.radyomastika": {
+      "name": "Radyo Mastika",
+      "csv_line": 340980,
+      "price": "True"
+    },
+    "com.safeschoolhelpline.mobile": {
+      "name": "Safe Schools Helpline",
+      "csv_line": 340981,
+      "price": "0"
+    },
+    "co.gov.tunja_boyaca.tunjaenequipo": {
+      "name": "SomosTunja",
+      "csv_line": 340983,
+      "price": "0"
+    },
+    "lt.plaunupats.app": {
+      "name": "Plaunu pats",
+      "csv_line": 340985,
+      "price": "True"
+    },
+    "com.teccom.kenyaradiostationsapp": {
+      "name": "Kenya Radio Stations App",
+      "csv_line": 340988,
+      "price": "True"
+    },
+    "com.vris.kim": {
+      "name": "Kim? - Random Picker",
+      "csv_line": 340989,
+      "price": "True"
+    },
+    "com.simonrossi.martingalecalculator": {
+      "name": "Martingale calculator",
+      "csv_line": 340990,
+      "price": "True"
+    },
+    "com.currencyrate.pkd": {
+      "name": "World Currency",
+      "csv_line": 340991,
+      "price": "True"
+    },
+    "com.developer.oracaodesaofranciscodeassis": {
+      "name": "Ora\u00e7\u00e3o de S\u00e3o Francisco de Assis",
+      "csv_line": 340992,
+      "price": "True"
+    },
+    "br.com.kurole.app.concretoimoveis": {
+      "name": "Concreto Im\u00f3veis",
+      "csv_line": 340994,
+      "price": "0"
+    },
+    "com.nikl.yandexwork": {
+      "name": "\u0421\u0438\u043c\u0443\u043b\u044f\u0442\u043e\u0440 \u043a\u0443\u0440\u044c\u0435\u0440\u0430 \u0414\u043e\u0441\u0442\u0430\u0432\u043a\u0430 \u0415\u0434\u044b",
+      "csv_line": 340995,
+      "price": "True"
+    },
+    "com.mobisystems.msdict.embedded.wireless.collins.audiomltkono": {
+      "name": "Collins Korean<>Norwegian Dictionary",
+      "csv_line": 340996,
+      "price": "0"
+    },
+    "net.fastPure": {
+      "name": "fastPure",
+      "csv_line": 340997,
+      "price": "0"
+    },
+    "ro.artsoft.puregymboditrax": {
+      "name": "Pure Gym boditrax",
+      "csv_line": 340998,
+      "price": "True"
+    },
+    "ie.flipdish.fd4030": {
+      "name": "Figos Peri Peri",
+      "csv_line": 340999,
+      "price": "True"
+    },
+    "aceofspades.hippo": {
+      "name": "Hippo Escape",
+      "csv_line": 341000,
+      "price": "0"
+    }
+  },
+  "invalid_apps": {
+    "com.DokyGames.PirateOfTheStick": {
+      "name": "Pirata Del Palo",
+      "csv_line": 340000,
+      "price": "0"
+    },
+    "appinventor.ai_kimdeoksook.Manbogl": {
+      "name": "\ub9cc\ubcf4\uae30 (Pedometer)",
+      "csv_line": 340001,
+      "price": "0"
+    },
+    "com.secure.mynote.android": {
+      "name": "Secure Note",
+      "csv_line": 340003,
+      "price": "0"
+    },
+    "com.amstech.inc.exammerapp_a2zest": {
+      "name": "A2Zest",
+      "csv_line": 340004,
+      "price": "0"
+    },
+    "com.crowdcompass.appDZFDOeVpAy": {
+      "name": "Maui Derm Meetings",
+      "csv_line": 340009,
+      "price": "0"
+    },
+    "com.menudrive.WaltersPizza": {
+      "name": "Walters303",
+      "csv_line": 340012,
+      "price": "0"
+    },
+    "com.mobappcreator.app_114822_118634": {
+      "name": "Almacen de Barrio",
+      "csv_line": 340013,
+      "price": "0"
+    },
+    "map.metro.Hiroshima.Tram": {
+      "name": "Hiroshima Tram Map",
+      "csv_line": 340017,
+      "price": "True"
+    },
+    "com.joedevapp.bungalowhouse": {
+      "name": "Bungalow Villa House",
+      "csv_line": 340026,
+      "price": "True"
+    },
+    "com.fm.radios.angola": {
+      "name": "Angola FM Radios",
+      "csv_line": 340027,
+      "price": "True"
+    },
+    "com.awesomegroup.ngagerV2": {
+      "name": "N'gager",
+      "csv_line": 340028,
+      "price": "0"
+    },
+    "com.storymakerforintsta.instaasmastore": {
+      "name": "Story Maker for Insta",
+      "csv_line": 340029,
+      "price": "True"
+    },
+    "com.didomido.sarkilari": {
+      "name": "Didomido En Sevilen Coverlar ve Nimet \u015eark\u0131lar\u0131",
+      "csv_line": 340030,
+      "price": "True"
+    },
+    "com.memoriescloud": {
+      "name": "Memories Cloud",
+      "csv_line": 340031,
+      "price": "0"
+    },
+    "com.airkast.WFBEFM": {
+      "name": "B95",
+      "csv_line": 340032,
+      "price": "True"
+    },
+    "com.piano.org.pianokeyboard": {
+      "name": "Organ Piano 2020",
+      "csv_line": 340034,
+      "price": "True"
+    },
+    "au.com.laingorourke.usydhp": {
+      "name": "USYD Health Precinct",
+      "csv_line": 340035,
+      "price": "0"
+    },
+    "aplic1303932.pts": {
+      "name": "\u0637\u0628\u0642 \u0627\u0644\u0633\u0648\u062f\u0627\u0646 TV",
+      "csv_line": 340036,
+      "price": "True"
+    },
+    "com.tools_apps.prayers.family": {
+      "name": "Prayer for the family - Protection",
+      "csv_line": 340037,
+      "price": "0"
+    },
+    "nl.lifestyleinteractive.MijnHLVZ": {
+      "name": "Het Leven",
+      "csv_line": 340038,
+      "price": "True"
+    },
+    "com.kenzap.portfolio": {
+      "name": "Portfolio Site Maker",
+      "csv_line": 340041,
+      "price": "0"
+    },
+    "in.hoven.true01": {
+      "name": "Truth Test - 1(Bank Exams)",
+      "csv_line": 340043,
+      "price": "0"
+    },
+    "land.dict.bdenmt1.free": {
+      "name": "English Maltese dictionary",
+      "csv_line": 340044,
+      "price": "0"
+    },
+    "com.cloudninedevelopmentllc.AbbyPick_72": {
+      "name": "Berg-Feinfield",
+      "csv_line": 340046,
+      "price": "0"
+    },
+    "com.cook.catalog.database.nl.brood": {
+      "name": "Brood recepten app nederlands gratis",
+      "csv_line": 340048,
+      "price": "0"
+    },
+    "com.macha.deafla": {
+      "name": "deaf/LA",
+      "csv_line": 340053,
+      "price": "0"
+    },
+    "com.OldSchoolTattoos.devEge.app": {
+      "name": "Old School Tattoos",
+      "csv_line": 340056,
+      "price": "True"
+    },
+    "blast.puzzle.blocks.pop": {
+      "name": "Puzzle Pop Blast",
+      "csv_line": 340057,
+      "price": "True"
+    },
+    "com.cfmciapp": {
+      "name": "Franco-Mexican Chamber of Commerce and Industry",
+      "csv_line": 340058,
+      "price": "0"
+    },
+    "com.anime.adult.manga.hentai.desu.sudo": {
+      "name": "Anime Collections for Adult Coloring",
+      "csv_line": 340059,
+      "price": "True"
+    },
+    "com.omnilux.audioplayer": {
+      "name": "Audio: Jungle Tales of Tarzan",
+      "csv_line": 340063,
+      "price": "True"
+    },
+    "li.yapp.app3C03B823": {
+      "name": "ROP\u00c9 \u30ed\u30da \u516c\u5f0f\u30a2\u30d7\u30ea",
+      "csv_line": 340066,
+      "price": "True"
+    },
+    "com.thehawkradio.fm959thehawkradiokzhkclassicrock": {
+      "name": "95.9 The Hawk Radio KZHK \ud83d\udcfb",
+      "csv_line": 340069,
+      "price": "0"
+    },
+    "tool.manager.apps.photovideodownloader": {
+      "name": "Story Saver for Instagram :Download & Repost Story",
+      "csv_line": 340070,
+      "price": "True"
+    },
+    "com.sai.shaadimubaraksc": {
+      "name": "Shaadi Mubarak Starplus hotstar serial Review",
+      "csv_line": 340071,
+      "price": "0"
+    },
+    "my.moviesnapp": {
+      "name": "Moviendate",
+      "csv_line": 340073,
+      "price": "0"
+    },
+    "com.delightvideo.babyvideomakerwithsong": {
+      "name": "Baby Video Maker With Song",
+      "csv_line": 340077,
+      "price": "True"
+    },
+    "com.WriggleMonster.stripeslivewallpaper": {
+      "name": "Stripes Live Wallpaper",
+      "csv_line": 340078,
+      "price": "0.99"
+    },
+    "hd.flame.horse.live.wallpapers": {
+      "name": "Flame Horse Live Wallpapers Themes",
+      "csv_line": 340082,
+      "price": "0"
+    },
+    "com.mysumbawaojekone.sumbawaojekone": {
+      "name": "Sumbawa Ojek One",
+      "csv_line": 340083,
+      "price": "0"
+    },
+    "com.maliwan.kamkommae": {
+      "name": "\u0e04\u0e4d\u0e32\u0e04\u0e21\u0e40\u0e21\u0e35\u0e22 \u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e23\u0e39\u0e1b\u0e20\u0e32\u0e1e",
+      "csv_line": 340085,
+      "price": "True"
+    },
+    "si.intech.mclanstvo": {
+      "name": "\u010clanstvo",
+      "csv_line": 340086,
+      "price": "0"
+    },
+    "be.truthful.eurekafx": {
+      "name": "Forex Signals",
+      "csv_line": 340087,
+      "price": "True"
+    },
+    "com.herlinapps.bukupanduanpramukalengkap": {
+      "name": "Buku Panduan Pramuka Lengkap",
+      "csv_line": 340088,
+      "price": "True"
+    },
+    "com.mhmd.ali": {
+      "name": "nahif-shop",
+      "csv_line": 340089,
+      "price": "0"
+    },
+    "ru.FoodSoul.KrasnodarKafeAmAm": {
+      "name": "\u0420\u0435\u0441\u0442\u043e\u0440\u0430\u043d \u041d\u0410\u041c-\u0410\u041c | \u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440",
+      "csv_line": 340097,
+      "price": "0"
+    },
+    "com.riceball.gprollingman2": {
+      "name": "Rolling Man2",
+      "csv_line": 340099,
+      "price": "True"
+    },
+    "com.creaxguvenlik.mobil": {
+      "name": "Creax G\u00fcvenlik",
+      "csv_line": 340104,
+      "price": "0"
+    },
+    "com.treedgames.qzoo": {
+      "name": "Clash of Whales",
+      "csv_line": 340106,
+      "price": "0"
+    },
+    "com.watch.richface.metalelegant": {
+      "name": "Metal Elegant Watch Face",
+      "csv_line": 340109,
+      "price": "False"
+    },
+    "com.chicoas.livesatelliteview": {
+      "name": "Live Satellite View  GPS Navigation & Maps",
+      "csv_line": 340113,
+      "price": "True"
+    },
+    "com.ionicframework.gurubani": {
+      "name": "Free Sikh Gurbani",
+      "csv_line": 340114,
+      "price": "True"
+    },
+    "com.videncial.cede": {
+      "name": "CEDE",
+      "csv_line": 340115,
+      "price": "0"
+    },
+    "com.SyntaxGames.Cycle": {
+      "name": "Cycle",
+      "csv_line": 340119,
+      "price": "0"
+    },
+    "com.mrdev.ilisa.music": {
+      "name": "\u0627\u0644\u064a\u0633\u0627 \u0628\u062f\u0648\u0646 \u0646\u062a | \u062c\u062f\u064a\u062f \u0627\u0644\u0623\u063a\u0627\u0646\u064a",
+      "csv_line": 340121,
+      "price": "0"
+    },
+    "com.zaynmedia.moral_stories_offline": {
+      "name": "Moral Stories Offline for Free",
+      "csv_line": 340122,
+      "price": "0"
+    },
+    "qrscanner.qrandbarcodescanner": {
+      "name": "QR Code Reader & Barcode Scanner : Easy and Simple",
+      "csv_line": 340129,
+      "price": "True"
+    },
+    "com.GameChangers.PianoTunesPetCheetahTwentyOnePilots": {
+      "name": "Pet Cheetah - Twenty One Pilots - Piano Tunes",
+      "csv_line": 340130,
+      "price": "0"
+    },
+    "com.maximum.radiolumiar": {
+      "name": "R\u00e1dio Lumiar",
+      "csv_line": 340132,
+      "price": "0"
+    },
+    "amre.globalnoticeboard.com": {
+      "name": "Adam Mercer Real Estate",
+      "csv_line": 340133,
+      "price": "0"
+    },
+    "pl.alicjagruszko.runninglap": {
+      "name": "Running Laps",
+      "csv_line": 340136,
+      "price": "0"
+    },
+    "com.kajiankpop.animemusic": {
+      "name": "Piano Anime Music Tiles",
+      "csv_line": 340137,
+      "price": "0"
+    },
+    "com.zstudio.lagu_ike_nurjanah": {
+      "name": "Lagu Dangdut Ike Nurjanah Offline",
+      "csv_line": 340138,
+      "price": "0"
+    },
+    "com.CartoonFanArtWallpapers.BestBackground": {
+      "name": "Cartoon Fan Art Wallpapers - Free",
+      "csv_line": 340139,
+      "price": "True"
+    },
+    "com.application.dineorder.csd": {
+      "name": "DineOrder CSD",
+      "csv_line": 340142,
+      "price": "0"
+    },
+    "hu.infotec.BajaWalk": {
+      "name": "Baja Walk",
+      "csv_line": 340143,
+      "price": "0"
+    },
+    "com.metrobusmapoffline.yekaterinburg": {
+      "name": "Yekaterinburg Metro Bus and Live City Maps",
+      "csv_line": 340147,
+      "price": "0"
+    },
+    "com.nblog.keel": {
+      "name": "\u57fa\u9686\u5b78\u8853\u8077\u6daf\u53ca\u5b78\u7fd2\u5730\u5716\u5c0e\u89bd\u7cfb\u7d71",
+      "csv_line": 340148,
+      "price": "0"
+    },
+    "com.smy.halkaaksesuar": {
+      "name": "Halka Aksesuar",
+      "csv_line": 340153,
+      "price": "0"
+    },
+    "anime.manga.wallpaper.AkamegaKillAnimeWallpaper.my_animeAkame_ga_Kill_Anime_Wallpaper": {
+      "name": "Akame ga Kill Anime Wallpaper",
+      "csv_line": 340154,
+      "price": "True"
+    },
+    "com.goodbarber.fitteamlatino": {
+      "name": "FItteam Latino",
+      "csv_line": 340155,
+      "price": "0"
+    },
+    "com.nurviana.uin.pkim": {
+      "name": "Super Chemist",
+      "csv_line": 340158,
+      "price": "0"
+    },
+    "lt.kryptis.discoverjewishlithuania": {
+      "name": "Discover Jewish Lithuania",
+      "csv_line": 340160,
+      "price": "True"
+    },
+    "com.Englishstory.nurseryrhymes.Oldmcdonaldspoem": {
+      "name": "Old Mcdonalds Had a Farm - English Rhyme",
+      "csv_line": 340164,
+      "price": "True"
+    },
+    "com.choge.anallysis.forexguide": {
+      "name": "forex trading guide lite",
+      "csv_line": 340165,
+      "price": "0"
+    },
+    "radio.tophitsradio.musicplayer.music": {
+      "name": "Top hits radio+",
+      "csv_line": 340167,
+      "price": "0"
+    },
+    "livery.skin.bussid.haryanto": {
+      "name": "Livery Skin Bussid Haryanto",
+      "csv_line": 340170,
+      "price": "True"
+    },
+    "com.qrioustech.jaina.paintappsample": {
+      "name": "Digital Signature",
+      "csv_line": 340171,
+      "price": "True"
+    },
+    "smarty.magiceffect.mirrorphotoeditor.picsartphotomirror": {
+      "name": "3D Photo Mirror Effect : Echo : Background Changer",
+      "csv_line": 340173,
+      "price": "0"
+    },
+    "com.dwimurapp.kisahkasihdiSekolahostdarijendelasmp": {
+      "name": "Kisah Kasih di Sekolah - OST Dari Jendela SMP",
+      "csv_line": 340175,
+      "price": "True"
+    },
+    "ru.abmobile.themallapplication": {
+      "name": "\u0422\u043e\u0440\u0433\u043e\u0432\u044b\u0439 \u0446\u0435\u043d\u0442\u0440",
+      "csv_line": 340177,
+      "price": "0"
+    },
+    "com.bf.app6003f69a": {
+      "name": "AESP NOW",
+      "csv_line": 340179,
+      "price": "0"
+    },
+    "com.happyapple.missingwords": {
+      "name": "Missing Words",
+      "csv_line": 340180,
+      "price": "0"
+    },
+    "jp.nap.app.dynawrite": {
+      "name": "Dynawrite",
+      "csv_line": 340181,
+      "price": "True"
+    },
+    "com.wHextechSetSimulator_12323812": {
+      "name": "Moba Collection",
+      "csv_line": 340184,
+      "price": "0"
+    },
+    "com.sharefaith.sfchurchapp_f11fcde41eed0c0f": {
+      "name": "Mercy Hill Jackson",
+      "csv_line": 340186,
+      "price": "0"
+    },
+    "com.jugnuu.real.bike.stunt.free.game": {
+      "name": "Bike Stunt Racing Game 3D -  Free Bike Game",
+      "csv_line": 340187,
+      "price": "0"
+    },
+    "br.com.tgoo.portaldafe": {
+      "name": "\"Portal da F\u00e9, divulgue a palavra\"",
+      "csv_line": 340188,
+      "price": "0"
+    },
+    "com.faiznaufaldev.nissasabyanitiraffullalbumsholawatterbaru": {
+      "name": "Nissa Sabyan - I'tiraf Full Album Sholawat Terbaru",
+      "csv_line": 340189,
+      "price": "0"
+    },
+    "com.colegium.TeacherTrackMobile": {
+      "name": "TeacherTrack",
+      "csv_line": 340192,
+      "price": "0"
+    },
+    "de.dab.b2b": {
+      "name": "DAB B2B Endkunden",
+      "csv_line": 340193,
+      "price": "True"
+    },
+    "com.getinqapp.inq": {
+      "name": "Get inQ",
+      "csv_line": 340194,
+      "price": "0"
+    },
+    "com.gsj.dontcrash": {
+      "name": "Dont Crash!",
+      "csv_line": 340196,
+      "price": "0"
+    },
+    "games.crush.cars": {
+      "name": "Crush Cars - Motorcycle Rider",
+      "csv_line": 340203,
+      "price": "0"
+    },
+    "com.NewColorfoulWallpapers.ColorfoulWallpapersNew": {
+      "name": "Guide For Miga Town My World 2021",
+      "csv_line": 340204,
+      "price": "True"
+    },
+    "com.mh.magnifierlite.mirror": {
+      "name": "Magnifier-Magnifying Glass 2021",
+      "csv_line": 340209,
+      "price": "True"
+    },
+    "tropicalfm.radiocanada": {
+      "name": "Tropical FM Canada",
+      "csv_line": 340210,
+      "price": "0"
+    },
+    "com.kanagalingam.saibaba": {
+      "name": "SHRIDI SAI BABA",
+      "csv_line": 340213,
+      "price": "True"
+    },
+    "com.lfq.biology_cheatlists": {
+      "name": "Biology Cheatlists",
+      "csv_line": 340215,
+      "price": "0"
+    },
+    "com.mini.kpibsi": {
+      "name": "Kpibsi",
+      "csv_line": 340221,
+      "price": "0"
+    },
+    "com.annapurnayomart.grocery.shops": {
+      "name": "Annapurna Store",
+      "csv_line": 340224,
+      "price": "0"
+    },
+    "com.bear.nationsunies": {
+      "name": "You Need To Know",
+      "csv_line": 340226,
+      "price": "0"
+    },
+    "com.q7d3bea1b88e.app": {
+      "name": "Meditation App by Balance In Me",
+      "csv_line": 340228,
+      "price": "True"
+    },
+    "apps.infinite.peacocksound": {
+      "name": "Peacock Sound",
+      "csv_line": 340229,
+      "price": "0"
+    },
+    "com.speedsol.www.printlink": {
+      "name": "SpeedPRINT LINK",
+      "csv_line": 340235,
+      "price": "0"
+    },
+    "com.devgameapp.bubblegame": {
+      "name": "Sort The Ball - Bubble Game",
+      "csv_line": 340238,
+      "price": "0"
+    },
+    "com.humantimes.app": {
+      "name": "Human Times",
+      "csv_line": 340241,
+      "price": "0"
+    },
+    "com.laryngitishelp": {
+      "name": "Laryngitis Help",
+      "csv_line": 340243,
+      "price": "0"
+    },
+    "io.codenova": {
+      "name": "CodeNova",
+      "csv_line": 340248,
+      "price": "0"
+    },
+    "com.syrian.mobile_prices_sy": {
+      "name": "\u0623\u0633\u0639\u0627\u0631 \u0627\u0644\u0645\u0648\u0628\u0627\u064a\u0644\u0627\u062a \u0641\u064a \u0633\u0648\u0631\u064a\u0627",
+      "csv_line": 340249,
+      "price": "True"
+    },
+    "app.CoolTests.quizzombie": {
+      "name": "Quiz - \u00bfSobrevivir\u00edas al apocalipsis zombie?",
+      "csv_line": 340252,
+      "price": "True"
+    },
+    "com.sportmaniac_live_app_android.blagransports": {
+      "name": "Blagran Sports Live",
+      "csv_line": 340253,
+      "price": "0"
+    },
+    "com.zerodegreec.clockgalaxy": {
+      "name": "\"Z Clock Widget - Galaxy s20, Galaxy S Series\"",
+      "csv_line": 340257,
+      "price": "True"
+    },
+    "jp.travel.android": {
+      "name": "\u30c8\u30e9\u30d9\u30ebjp \u65c5\u884c\u30ac\u30a4\u30c9/\u683c\u5b89\u65c5\u884c\u306e\u4fa1\u683c\u6bd4\u8f03\u30fb\u4e88\u7d04",
+      "csv_line": 340261,
+      "price": "True"
+    },
+    "com.makeshop.powerapp.kekekies": {
+      "name": "\ubc18\uac12\ud560\uc778 - 09joha",
+      "csv_line": 340263,
+      "price": "True"
+    },
+    "com.innofied.barnaparichay": {
+      "name": "Barnoparichay - Bengali",
+      "csv_line": 340267,
+      "price": "True"
+    },
+    "com.salsabilapps.quotes_strong": {
+      "name": "Best Quotes",
+      "csv_line": 340270,
+      "price": "0"
+    },
+    "com.huuugetaptapgames.spooky.swing": {
+      "name": "Spooky Swing",
+      "csv_line": 340273,
+      "price": "0"
+    },
+    "io.steelalive.application": {
+      "name": "Steel Alive",
+      "csv_line": 340279,
+      "price": "0"
+    },
+    "com.school.iqdigit.bti": {
+      "name": "Beauty Therapy Institute & Salon (BTI) Hamirpur",
+      "csv_line": 340280,
+      "price": "0"
+    },
+    "com.hustay.swing.p5833fbd9326041149bef18f8333c09a4": {
+      "name": "\ucf54\ub529\ud074\ub7fd",
+      "csv_line": 340281,
+      "price": "0"
+    },
+    "game.ingliroesbest.wardenhrom": {
+      "name": "New Unique Entertainment 3",
+      "csv_line": 340282,
+      "price": "True"
+    },
+    "com.fracaz.uporout": {
+      "name": "Up or Out",
+      "csv_line": 340283,
+      "price": "0"
+    },
+    "com.possitive.live.wallpwper.warriorlivewallpaperhd": {
+      "name": "Warrior Live Wallpaper HD",
+      "csv_line": 340284,
+      "price": "0"
+    },
+    "com.pawansinghkeholivideosongshitgana2018": {
+      "name": "Pawan Singh Ke Holi Video Songs - Hit Gana 2018",
+      "csv_line": 340288,
+      "price": "True"
+    },
+    "com.eBibleUniverse.TagalogBible": {
+      "name": "Tagalog Bible ( Ang Biblia ) with Audio",
+      "csv_line": 340289,
+      "price": "0"
+    },
+    "com.nilesh9xm2.MahaGov_Exam_All_Post": {
+      "name": "MahaGov Exam All Post\u0930\u093e\u091c\u094d\u092f\u0936\u093e\u0938\u0928 \u0938\u094d\u092a\u0930\u094d\u0927\u093e\u092a\u0930\u0940\u0915\u094d\u0937\u093e \u092d\u0930\u0924\u0940",
+      "csv_line": 340291,
+      "price": "True"
+    },
+    "scholarstudio.videoeditor.photoeditor.xlsx.file.reader.xlsx.file.viewer.document.viewer": {
+      "name": "Xlsx File Reader with Xls Viewer - Xls File Viewer",
+      "csv_line": 340293,
+      "price": "True"
+    },
+    "fishing.frenzy2021": {
+      "name": "Fishing Frenzy 2021",
+      "csv_line": 340294,
+      "price": "0"
+    },
+    "com.StripeCloud.BlackThroatedLaughingthrushAudioSound": {
+      "name": "Black Throated Laughingthrush Bird Call Sounds",
+      "csv_line": 340297,
+      "price": "True"
+    },
+    "com.peacock.wallpaper.peacockswallpaper.birds.hdbackgounds.offline.peacockfeather.colorful": {
+      "name": "Peacock Wallpapers \ud83e\udd9a",
+      "csv_line": 340298,
+      "price": "True"
+    },
+    "com.brunico.emcix2019": {
+      "name": "CIX 2019",
+      "csv_line": 340306,
+      "price": "0"
+    },
+    "ru.iappsandigames.simulatorneoncar": {
+      "name": "Simulator Neon Car",
+      "csv_line": 340310,
+      "price": "True"
+    },
+    "com.paisamartpharma.medical": {
+      "name": "Paisamart Pharma",
+      "csv_line": 340311,
+      "price": "0"
+    },
+    "com.calculator.safegallery": {
+      "name": "Calculator Vault",
+      "csv_line": 340318,
+      "price": "True"
+    },
+    "com.app.mathsclassn": {
+      "name": "10th Class Maths",
+      "csv_line": 340319,
+      "price": "True"
+    },
+    "com.dev.mox.prod8": {
+      "name": "Science class 6 notes",
+      "csv_line": 340322,
+      "price": "True"
+    },
+    "com.prensent.poojapaathwithpanditchamanshastri": {
+      "name": "Pooja Paath - Chaman Shastri",
+      "csv_line": 340327,
+      "price": "0"
+    },
+    "com.stannardsdclean.app": {
+      "name": "Stannards dry cleaners",
+      "csv_line": 340328,
+      "price": "0"
+    },
+    "com.nehdevelopers.africanwomenfashion": {
+      "name": "Best African Women Fashion Styles 2020",
+      "csv_line": 340329,
+      "price": "0"
+    },
+    "com.truyenlexuyenkhong.baoboivolainuong": {
+      "name": "\u0110\u00edch N\u1eef Cu\u1ed3ng Phi C\u1ef1c Ph\u1ea9m B\u1ea3o B\u1ed1i V\u00f4 L\u1ea1i N\u01b0\u01a1ng",
+      "csv_line": 340330,
+      "price": "0"
+    },
+    "com.showforme.driver": {
+      "name": "SHOW for ME - Be a Showing Assistant",
+      "csv_line": 340332,
+      "price": "0"
+    },
+    "com.wrs.usacountry": {
+      "name": "USA Country Radio Stations",
+      "csv_line": 340333,
+      "price": "True"
+    },
+    "com.finalweb.fwapp_180013861": {
+      "name": "Mainstream",
+      "csv_line": 340334,
+      "price": "0"
+    },
+    "net.webadsky.kice": {
+      "name": "\uc6b0\ub9ac\ub3d9\ub124 \uc608\uc220\ud130",
+      "csv_line": 340335,
+      "price": "True"
+    },
+    "com.sevenactivestudio.medicaltuts": {
+      "name": "MedicalTuts",
+      "csv_line": 340342,
+      "price": "True"
+    },
+    "com.Gamezoor.Dubai.Desert.Safari.Jeep4x4.Games": {
+      "name": "Dubai Desert Safari Jeep 4X4 Game",
+      "csv_line": 340352,
+      "price": "True"
+    },
+    "com.nineyi.shop.s040136": {
+      "name": "\u6021\u773e\u8cfc\u7269",
+      "csv_line": 340353,
+      "price": "0"
+    },
+    "com.amphibius.santa_vs_zombies": {
+      "name": "Santa vs. Zombies",
+      "csv_line": 340355,
+      "price": "2010997"
+    },
+    "com.kidsbypok.learntocount": {
+      "name": "Learn to Count",
+      "csv_line": 340358,
+      "price": "True"
+    },
+    "com.toptutorial.turbogears": {
+      "name": "Easy TurboGears Tutorial",
+      "csv_line": 340359,
+      "price": "0"
+    },
+    "com.acarcana.poweranimals": {
+      "name": "Power Animals",
+      "csv_line": 340361,
+      "price": "True"
+    },
+    "com.nathnetwork.iptvdeco": {
+      "name": "Deco ott",
+      "csv_line": 340365,
+      "price": "0"
+    },
+    "com.mobappcreator3.app_44183_46031": {
+      "name": "Colegio San Viator",
+      "csv_line": 340367,
+      "price": "0"
+    },
+    "appinventor.ai_ceborakarsu.Nolur": {
+      "name": "Learn Numbers in Different Languages",
+      "csv_line": 340370,
+      "price": "0"
+    },
+    "com.chownow.stokedwoodfiredpub": {
+      "name": "Stoked Woodfired Pub",
+      "csv_line": 340373,
+      "price": "0"
+    },
+    "casa.vip": {
+      "name": "Casa Vip",
+      "csv_line": 340374,
+      "price": "True"
+    },
+    "com.thobun.alanwalkerlovemusic": {
+      "name": "Alan Walker Top Songs",
+      "csv_line": 340375,
+      "price": "0"
+    },
+    "com.rapidblaz.djremixreggae": {
+      "name": "Lagu DJ Remix Reggae Populer",
+      "csv_line": 340379,
+      "price": "True"
+    },
+    "com.appxquare.beracles": {
+      "name": "Beracles",
+      "csv_line": 340382,
+      "price": "0"
+    },
+    "com.jsdictioneryapp.pashtotourdu": {
+      "name": "Pashto to Urdu Dictionary Offline",
+      "csv_line": 340383,
+      "price": "True"
+    },
+    "me.doubledutch.ahpannualinternational1": {
+      "name": "AHP International Conference",
+      "csv_line": 340386,
+      "price": "0"
+    },
+    "com.icecreamwallpaper.Ketelu": {
+      "name": "Ice Cream Wallpapers",
+      "csv_line": 340388,
+      "price": "0"
+    },
+    "com.broadspectrumfree.kg5jst": {
+      "name": "BroadSpectrumRadio-Free",
+      "csv_line": 340394,
+      "price": "0"
+    },
+    "theme.space.galaxy.cosmic.earth.launcher.wallpaper.launcher": {
+      "name": "Space galaxy theme Cosmic earth",
+      "csv_line": 340402,
+      "price": "True"
+    },
+    "com.shroomycorp.parkereninantwerpen": {
+      "name": "Parking in Antwerp",
+      "csv_line": 340404,
+      "price": "True"
+    },
+    "com.globant.foo.bethere": {
+      "name": "BeThere | by StarMeUp OS",
+      "csv_line": 340408,
+      "price": "True"
+    },
+    "com.app_wiscoguide.layout": {
+      "name": "Wisco Guide",
+      "csv_line": 340409,
+      "price": "True"
+    },
+    "br.com.vipfood.motorista": {
+      "name": "Vip Food - MotoBoy",
+      "csv_line": 340410,
+      "price": "0"
+    },
+    "com.hyperfrukt.clashrunners": {
+      "name": "Clash Runners - Free Robux - Roblominer",
+      "csv_line": 340413,
+      "price": "True"
+    },
+    "com.goodbarber.highroadtrail": {
+      "name": "High Road Art Trail",
+      "csv_line": 340414,
+      "price": "0"
+    },
+    "de.oks.germany": {
+      "name": "OKS",
+      "csv_line": 340417,
+      "price": "True"
+    },
+    "com.inpeace.logosdanbury.danbury": {
+      "name": "Logos Danbury",
+      "csv_line": 340419,
+      "price": "0"
+    },
+    "com.androidinview.shelat": {
+      "name": "\u0627\u062d\u062f\u062b \u0648\u0627\u062c\u0645\u0644 \u0627\u0644\u0634\u064a\u0644\u0627\u062a \u0628\u062f\u0648\u0646 \u0646\u062a 2021",
+      "csv_line": 340420,
+      "price": "True"
+    },
+    "com.funkids.maze.runner.xtreme.car.racing.adventure": {
+      "name": "Maze Runner: Xtreme Car Racing Adventure",
+      "csv_line": 340421,
+      "price": "True"
+    },
+    "com.capiratech.worthingoh": {
+      "name": "Worthington Libraries",
+      "csv_line": 340423,
+      "price": "0"
+    },
+    "com.ietechnosoft.nik.lisclassroom": {
+      "name": "LIS-CLASSROOM",
+      "csv_line": 340428,
+      "price": "0"
+    },
+    "com.fissher.wowtc": {
+      "name": "WoW Classic TBC Wotlk Vanilla Talent Calculator",
+      "csv_line": 340429,
+      "price": "True"
+    },
+    "alterforce.huntress": {
+      "name": "Devilry Huntress",
+      "csv_line": 340430,
+      "price": "False"
+    },
+    "com.ips.DeathRace.CarFever.RoadKill": {
+      "name": "Death Car Race Fever:Road Kill",
+      "csv_line": 340431,
+      "price": "True"
+    },
+    "com.gabinoapps.tanzaniaradiostations": {
+      "name": "Fm 88.9 Tanzania Radio Station",
+      "csv_line": 340432,
+      "price": "True"
+    },
+    "com.hdflags.montenegro.wallpaper.images": {
+      "name": "Montenegro Flag Wallpaper",
+      "csv_line": 340433,
+      "price": "True"
+    },
+    "com.ionicframework.kintakun": {
+      "name": "Kintakun Collection",
+      "csv_line": 340435,
+      "price": "True"
+    },
+    "com.wUNIVERSITIESINKERALA_9714759": {
+      "name": "Universities in Kerala",
+      "csv_line": 340437,
+      "price": "0"
+    },
+    "com.alamoafcea.events": {
+      "name": "Alamo ACE Events",
+      "csv_line": 340438,
+      "price": "0"
+    },
+    "ru.FoodSoul.SarapulOranzhereya": {
+      "name": "\u041e\u0440\u0430\u043d\u0436\u0435\u0440\u0435\u044f | \u0420\u043e\u0441\u0441\u0438\u044f",
+      "csv_line": 340440,
+      "price": "0"
+    },
+    "com.spreaker.custom.prod.app_55865": {
+      "name": "Let's Chat",
+      "csv_line": 340441,
+      "price": "0"
+    },
+    "com.ChronoABI.OverTheJump": {
+      "name": "Over The Jump",
+      "csv_line": 340443,
+      "price": "0"
+    },
+    "com.abixtools.memo.notepad.notes": {
+      "name": "\"Abix Notes - Notepad Pro ( Reminder, ToDo, Memo )\"",
+      "csv_line": 340444,
+      "price": "True"
+    },
+    "iqradigital.com.book3": {
+      "name": "Iqra 3 with Audio",
+      "csv_line": 340446,
+      "price": "True"
+    },
+    "com.ztx.aref3": {
+      "name": "\u06a9\u0627\u0633\u062a \u0633\u0648\u0645 \u0639\u0627\u0631\u0641",
+      "csv_line": 340447,
+      "price": "True"
+    },
+    "rankr.io.rankrkakatiya": {
+      "name": "eKakatiya - College",
+      "csv_line": 340448,
+      "price": "0"
+    },
+    "fr.RivaMedia.AllianceNautique66": {
+      "name": "Alliance Nautique 66",
+      "csv_line": 340449,
+      "price": "0"
+    },
+    "com.bowyer.app.android.kyudoscoreteam": {
+      "name": "Kyudo ScoreBookTeam",
+      "csv_line": 340457,
+      "price": "True"
+    },
+    "clin.mathss.dictionary": {
+      "name": "Maths Dictionary",
+      "csv_line": 340458,
+      "price": "True"
+    },
+    "alm.radio.com": {
+      "name": "RADIO",
+      "csv_line": 340464,
+      "price": "0"
+    },
+    "com.keyboard.themestudio.lollipoplight": {
+      "name": "Emoji Keyboard - LollipopLight",
+      "csv_line": 340467,
+      "price": "True"
+    },
+    "com.wivescheet.date.local.women": {
+      "name": "Wives Cheet: Find a Match for Fun & More",
+      "csv_line": 340468,
+      "price": "True"
+    },
+    "com.strawberryicecream.wallpaper.freehdimages.strawberryicecreamphoto.bestpicture": {
+      "name": "Strawberry Ice Cream Wallpaper",
+      "csv_line": 340471,
+      "price": "True"
+    },
+    "app.arijit.levanilla": {
+      "name": "Levanilla",
+      "csv_line": 340475,
+      "price": "True"
+    },
+    "com.abirulove.copy": {
+      "name": "\u604b\u611b\u529b\u6e2c\u5b9a",
+      "csv_line": 340476,
+      "price": "True"
+    },
+    "com.exlivinapps.radioberlinbrandenburgappde": {
+      "name": "Radio Berlin Brandenburg App DE Free Online",
+      "csv_line": 340477,
+      "price": "0"
+    },
+    "com.radyodanefdinle": {
+      "name": "Radyo Danef",
+      "csv_line": 340478,
+      "price": "0"
+    },
+    "com.BlackInColorDemo": {
+      "name": "Black in Color Demo: A balls combinations game",
+      "csv_line": 340479,
+      "price": "0"
+    },
+    "orav.wallpaper.droid.apps28": {
+      "name": "Crochet Edging",
+      "csv_line": 340486,
+      "price": "0"
+    },
+    "com.appyourself.regicomcs_8219": {
+      "name": "SHILOS GROSSISTE",
+      "csv_line": 340487,
+      "price": "0"
+    },
+    "com.mobi.lemonvipmedya.iptv": {
+      "name": "Vip Medya",
+      "csv_line": 340488,
+      "price": "0"
+    },
+    "com.dnmobilestudio.sitisongmelayump3musikofflinelengkap": {
+      "name": "Siti Nurhaliza song melayu mp3 musik offline",
+      "csv_line": 340492,
+      "price": "0"
+    },
+    "com.uc.radiotopmidia": {
+      "name": "Top Midia Chopinzinho",
+      "csv_line": 340494,
+      "price": "0"
+    },
+    "com.cs.zhinangquanji": {
+      "name": "\u667a\u56ca\u5168\u96c6",
+      "csv_line": 340496,
+      "price": "0"
+    },
+    "melhoressnovotocados.letrasemusicastiery": {
+      "name": "M\u00fasica Tierry - Vende-se esta casa",
+      "csv_line": 340499,
+      "price": "True"
+    },
+    "com.uhop.uae": {
+      "name": "U-HOP",
+      "csv_line": 340501,
+      "price": "0"
+    },
+    "jujama.com.ltw": {
+      "name": "London Tech Week",
+      "csv_line": 340502,
+      "price": "True"
+    },
+    "com.dachamcompany.dachamcorp": {
+      "name": "dacham company - korea cosmetic company",
+      "csv_line": 340503,
+      "price": "0"
+    },
+    "com.appmiral.ampereopenair": {
+      "name": "Ampere Open Air",
+      "csv_line": 340505,
+      "price": "0"
+    },
+    "com.tamerhosnymusic.mustafa": {
+      "name": "Tamer Hosni's Songs Without Net",
+      "csv_line": 340507,
+      "price": "0"
+    },
+    "ga.playwinearn.app": {
+      "name": "Play Win Earn",
+      "csv_line": 340509,
+      "price": "0"
+    },
+    "com.maropps.jouhastories": {
+      "name": "\u0642\u0635\u0635 \u062c\u062d\u0627 \u0627\u0644\u0645\u0633\u0645\u0648\u0639\u0629 \u062f\u0648\u0646 \u0623\u0646\u062a\u0631\u0646\u064a\u062a",
+      "csv_line": 340510,
+      "price": "True"
+    },
+    "com.blocks.growpuzzle": {
+      "name": "Blocks Grow",
+      "csv_line": 340512,
+      "price": "0"
+    },
+    "com.peroinc.italien.joursoirnuit": {
+      "name": "Buongiorno buona serata buona notte",
+      "csv_line": 340519,
+      "price": "True"
+    },
+    "com.shoutcast.stm.radiodiocesanadecaruaru": {
+      "name": "R\u00e1dio Diocesana de Caruaru",
+      "csv_line": 340523,
+      "price": "0"
+    },
+    "com.rmh.rockymountain": {
+      "name": "RMH Wireless",
+      "csv_line": 340524,
+      "price": "0"
+    },
+    "de.Catter": {
+      "name": "Catter a cat game",
+      "csv_line": 340525,
+      "price": "0"
+    },
+    "com.mscore.vallikunnu": {
+      "name": "Vallikunnu SCB",
+      "csv_line": 340527,
+      "price": "0"
+    },
+    "com.brawlergemsstars.unt": {
+      "name": "Brawlers Calc for Brawl Stars",
+      "csv_line": 340529,
+      "price": "0"
+    },
+    "com.sasgames.tivitz": {
+      "name": "TiViTz \u2013 Math Game",
+      "csv_line": 340531,
+      "price": "True"
+    },
+    "com.lovibeach.tenaway": {
+      "name": "Lovi - Quick dating chat",
+      "csv_line": 340534,
+      "price": "0"
+    },
+    "com.resepsemurayamkecapenakdansedap.resepmasakandanminuman.toptrandresepmasakanapps.mesotheliomalawfirm": {
+      "name": "Resep Semur Ayam Kecap Enak Dan Sedap",
+      "csv_line": 340535,
+      "price": "True"
+    },
+    "pay.cash2": {
+      "name": "PayPast Inc",
+      "csv_line": 340537,
+      "price": "0"
+    },
+    "com.mobilityado.qrobus": {
+      "name": "Qrob\u00fas - App Oficial",
+      "csv_line": 340540,
+      "price": "True"
+    },
+    "com.GuideForGoingBalls": {
+      "name": "Guide For Going Balls",
+      "csv_line": 340542,
+      "price": "True"
+    },
+    "com.Fiori.Immagini.Gif20": {
+      "name": "Flowers Images GIF 2021",
+      "csv_line": 340544,
+      "price": "True"
+    },
+    "com.scoralmedia.preschoollearning": {
+      "name": "Toddler Games For 2-5 Year Olds: 45 Learning Games",
+      "csv_line": 340545,
+      "price": "True"
+    },
+    "com.just.CrazLost": {
+      "name": "Crazy Piano Cover Song",
+      "csv_line": 340546,
+      "price": "0"
+    },
+    "com.ownweb.janari": {
+      "name": "Janari",
+      "csv_line": 340548,
+      "price": "0"
+    },
+    "com.AchmadDroid.Kitab.FiqihPrioritasQordawi": {
+      "name": "Fiqih Shalat Berjama'ah - Dr. Shalih Bin Ghanim",
+      "csv_line": 340550,
+      "price": "0"
+    },
+    "com.grammairee.francaisee": {
+      "name": "Apprendre la grammaire fran\u00e7aise",
+      "csv_line": 340551,
+      "price": "0"
+    },
+    "com.blurazor.steve": {
+      "name": "STEVE CROWN LYRICS",
+      "csv_line": 340556,
+      "price": "True"
+    },
+    "com.wallpaper.DontTouchMyPhoneWallpaper": {
+      "name": "Don't Touch My Phone Wallpaper",
+      "csv_line": 340560,
+      "price": "True"
+    },
+    "com.chownow.kababstopbaltimore": {
+      "name": "Kabab Stop - Baltimore",
+      "csv_line": 340561,
+      "price": "0"
+    },
+    "com.talentum.mediuutiset": {
+      "name": "Mediuutiset",
+      "csv_line": 340564,
+      "price": "0"
+    },
+    "com.utelly.uk.anytime": {
+      "name": "Anytime: Movies & Series Guide",
+      "csv_line": 340569,
+      "price": "0"
+    },
+    "go.AuronPlay": {
+      "name": "AuronPlay",
+      "csv_line": 340570,
+      "price": "True"
+    },
+    "org.crew2030.www.app.DFACatalyst": {
+      "name": "DFA Catalyst",
+      "csv_line": 340573,
+      "price": "0"
+    },
+    "air.com.jollyday.modern100roomescape": {
+      "name": "Modern 100 Door Escape: Escape Games",
+      "csv_line": 340574,
+      "price": "True"
+    },
+    "com.infinitylove.imagenesparaenamorar": {
+      "name": "images to fall in love",
+      "csv_line": 340578,
+      "price": "True"
+    },
+    "com.irwan.veloved.tugas_uas_komber": {
+      "name": "Hitung Berat Badan Ideal Bayi",
+      "csv_line": 340582,
+      "price": "True"
+    },
+    "com.cimoldroid.pastarecipes.healthyrecipes.italianpastadishes": {
+      "name": "PASTA RECIPES",
+      "csv_line": 340588,
+      "price": "0"
+    },
+    "com.kisahnabi.lengkap": {
+      "name": "Kisah Nabi dan Sahabat",
+      "csv_line": 340589,
+      "price": "0"
+    },
+    "com.rippll.ginashair": {
+      "name": "Gina's Hair",
+      "csv_line": 340591,
+      "price": "0"
+    },
+    "com.eliteboxing.muaythai10": {
+      "name": "MuayThai10",
+      "csv_line": 340599,
+      "price": "0"
+    },
+    "com.app.pemliuoqtdianznufcgysbpfwqxmrekdwzhbtyjcslgaxhrvoj": {
+      "name": "\u0644\u064a\u062f\u0632 \u0628\u0627\u0644\u0639\u0631\u0628\u064a",
+      "csv_line": 340600,
+      "price": "0"
+    },
+    "com.pharmevo.ASN": {
+      "name": "ASN App",
+      "csv_line": 340602,
+      "price": "0"
+    },
+    "com.thehartford.truelanesmartphone": {
+      "name": "TrueLane from The Hartford",
+      "csv_line": 340606,
+      "price": "True"
+    },
+    "com.alanwalkerdj.tileshopedmrush": {
+      "name": "Tiles Hop: EDM Rush Ball",
+      "csv_line": 340614,
+      "price": "0"
+    },
+    "com.RasenganCamera.Anime.PhotoMaker.PhotoEditor": {
+      "name": "Rasengan Camera - Anime Photo Maker",
+      "csv_line": 340620,
+      "price": "0"
+    },
+    "net.opendining.dosamigosmexicanrestaurant": {
+      "name": "Dos Amigos Mexican Restaurant",
+      "csv_line": 340625,
+      "price": "0"
+    },
+    "com.ashoksoft.ramayanam": {
+      "name": "Ramayanam",
+      "csv_line": 340626,
+      "price": "True"
+    },
+    "fun.podcastworld.bhs": {
+      "name": "\"Bahamas Podcast | Free Podcasts, All Podcasts\"",
+      "csv_line": 340627,
+      "price": "0"
+    },
+    "com.abr.hamdown": {
+      "name": "\u062d\u0644\u0642\u0627\u062a \u062d\u0645\u062f\u0648\u0646 2020 \u0628\u062f\u0648\u0646 \u0627\u0646\u062a\u0631\u0646\u062a",
+      "csv_line": 340630,
+      "price": "True"
+    },
+    "com.sistemasandinos.radiodiosdepacto": {
+      "name": "RADIO DIOS DE PACTO BOLIVIA",
+      "csv_line": 340632,
+      "price": "True"
+    },
+    "com.onedroid.asmaa_allah_alhosna_onedroid": {
+      "name": "\u0623\u0633\u0645\u0627\u0621 \u0627\u0644\u0644\u0647 \u0627\u0644\u062d\u0633\u0646\u0649 \u0628\u0627\u0644\u062a\u0641\u0633\u064a\u0631",
+      "csv_line": 340633,
+      "price": "True"
+    },
+    "com.NHSolution.JavaAndJavaFrameworksTutorial": {
+      "name": "Java and Java Frameworks Tutorial",
+      "csv_line": 340634,
+      "price": "0"
+    },
+    "com.doogle.israelnews": {
+      "name": "Israel Daily Newspapers",
+      "csv_line": 340638,
+      "price": "True"
+    },
+    "val.mobile.ammon": {
+      "name": "AMMON",
+      "csv_line": 340640,
+      "price": "0"
+    },
+    "com.app_dev_coders.funny_sounds": {
+      "name": "Funny Sounds",
+      "csv_line": 340641,
+      "price": "0"
+    },
+    "com.nurasquad.takecare.emergency": {
+      "name": "Take Care - Emergency Contacts",
+      "csv_line": 340644,
+      "price": "True"
+    },
+    "com.intigram.kaffa": {
+      "name": "KAFFA \uce74\ud30c - \uce74\ud398 \ub808\uc2dc\ud53c by POMONA",
+      "csv_line": 340645,
+      "price": "True"
+    },
+    "com.elvin.bizexpense": {
+      "name": "Biz Expense Tracker - Android",
+      "csv_line": 340652,
+      "price": "2.99"
+    },
+    "leadership.skills.fd": {
+      "name": "Leadership Skills Learning",
+      "csv_line": 340654,
+      "price": "0"
+    },
+    "com.app.ziplip": {
+      "name": "ZipLip- Create a Video you Love \ud83c\uddee\ud83c\uddf3",
+      "csv_line": 340658,
+      "price": "True"
+    },
+    "com.superhero.carracing": {
+      "name": "Superhero Car Racing Challenge",
+      "csv_line": 340660,
+      "price": "0"
+    },
+    "appinventor.ai_industria_galaxy.BlindSupport": {
+      "name": "Blind Support",
+      "csv_line": 340661,
+      "price": "0"
+    },
+    "com.knowledge.project.realityquotes": {
+      "name": "Reality Quotes",
+      "csv_line": 340663,
+      "price": "0"
+    },
+    "com.kbc.kbconline": {
+      "name": "KBC PLAY ALONG",
+      "csv_line": 340666,
+      "price": "True"
+    },
+    "kr.co.thekin.kss": {
+      "name": "Korean Surgical Society",
+      "csv_line": 340667,
+      "price": "0"
+    },
+    "howto.becomean.investment.banker.fd": {
+      "name": "How to Become an Investment Banker",
+      "csv_line": 340668,
+      "price": "0"
+    },
+    "com.appthebusiness.redshieldaccountantsapp": {
+      "name": "Redshield Accountants",
+      "csv_line": 340675,
+      "price": "0"
+    },
+    "com.blcabinet": {
+      "name": "BLCabinet",
+      "csv_line": 340684,
+      "price": "True"
+    },
+    "com.REISSOFT.MatematikBloklari3D": {
+      "name": "Mega Math",
+      "csv_line": 340685,
+      "price": "0"
+    },
+    "com.godsproslw.forestsoundslivewallpaper": {
+      "name": "Forest Sounds Live Wallpaper",
+      "csv_line": 340690,
+      "price": "0"
+    },
+    "com.ask.combinadornumerosloterias": {
+      "name": "Combinador de Numeros",
+      "csv_line": 340695,
+      "price": "True"
+    },
+    "com.goodbarber.fopam": {
+      "name": "FO Saint Gobain PAM",
+      "csv_line": 340700,
+      "price": "0"
+    },
+    "com.pacoelchato.apps.ayudaparatutarea_ApP5MPP": {
+      "name": "Problemas de Proporci\u00f3n 5\u00b0 Primaria",
+      "csv_line": 340709,
+      "price": "True"
+    },
+    "com.lovePoems.messages": {
+      "name": "2020 Love Poems & Messages Quotes",
+      "csv_line": 340710,
+      "price": "True"
+    },
+    "com.pictures.design.osamasaleh": {
+      "name": "Design pictures for the feast",
+      "csv_line": 340715,
+      "price": "0"
+    },
+    "com.loongames.zzs": {
+      "name": "Zig Zag Story",
+      "csv_line": 340716,
+      "price": "0"
+    },
+    "com.cs.whatismyipaddress": {
+      "name": "My Device IP Address",
+      "csv_line": 340718,
+      "price": "True"
+    },
+    "co.lam.lamdroid": {
+      "name": "Lazos de Amor Mariano",
+      "csv_line": 340720,
+      "price": "True"
+    },
+    "com.pesquisae.pizzeria": {
+      "name": "Pizzeria",
+      "csv_line": 340723,
+      "price": "0"
+    },
+    "com.top100freesoundsandringtones.formyphone": {
+      "name": "New Ringtones 2021 \ud83c\udfb5 - Free Ringtones",
+      "csv_line": 340724,
+      "price": "True"
+    },
+    "com.boxhdplus.tvseriesboxoffice": {
+      "name": "Vidman 2021",
+      "csv_line": 340733,
+      "price": "True"
+    },
+    "com.lizication.yarayara": {
+      "name": "\u0627\u063a\u0627\u0646\u064a \u064a\u0627\u0631\u0627 \u0628\u062f\u0648\u0646 \u0627\u0646\u062a\u0631\u0646\u062a Yara",
+      "csv_line": 340739,
+      "price": "True"
+    },
+    "com.cyberapps.aquarium": {
+      "name": "Aquarium Live Wallpaper",
+      "csv_line": 340740,
+      "price": "True"
+    },
+    "com.Taalam.Dutch_arabic": {
+      "name": "\u062a\u0639\u0644\u0645 \u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0647\u0648\u0644\u0646\u062f\u064a\u0629 \u0628\u0627\u0644\u0635\u0648\u062a \u0648\u0627\u0644\u0635\u0648\u0631\u0629 \u0628\u062f\u0648\u0646 \u0646\u062a",
+      "csv_line": 340741,
+      "price": "True"
+    },
+    "h7.hamzio7.ios13free": {
+      "name": "iOS 13 Free EMUI 10/9.X Theme",
+      "csv_line": 340743,
+      "price": "True"
+    },
+    "com.ringtonesounds.old.phone.ringtonesfree": {
+      "name": "Old Phone Ringtones Free",
+      "csv_line": 340755,
+      "price": "True"
+    },
+    "com.ASDC.navigation": {
+      "name": "\u4e2d\u7814\u9662\u5c0e\u89bdGO",
+      "csv_line": 340756,
+      "price": "True"
+    },
+    "br.com.webaula.leroymerlin": {
+      "name": "UCLM - Universidade Corporativa Leroy Merlin",
+      "csv_line": 340758,
+      "price": "True"
+    },
+    "com.technology.enjoyshoppingstreet": {
+      "name": "\u4eab\u8d2d\u8857",
+      "csv_line": 340760,
+      "price": "0"
+    },
+    "id.application.avengersfarm": {
+      "name": "Rpg Maker Mv: Avengers Farming Demo",
+      "csv_line": 340762,
+      "price": "0"
+    },
+    "com.fry.crabmeat.recipe": {
+      "name": "How to fry crab meat - crab meat recipe",
+      "csv_line": 340767,
+      "price": "0"
+    },
+    "com.two1pi.crosswordfitin": {
+      "name": "Crossword Fit In",
+      "csv_line": 340773,
+      "price": "0"
+    },
+    "com.azapp.AzStickerApp": {
+      "name": "Az Sticker App",
+      "csv_line": 340776,
+      "price": "0"
+    },
+    "com.SustainableEnergy.ms": {
+      "name": "\u0938\u0902\u0927\u093e\u0930\u0923\u0940\u092f \u090a\u0930\u094d\u091c\u093e Sustainable Energy",
+      "csv_line": 340777,
+      "price": "0"
+    },
+    "com.yellowaestheticwallpaperhd.formobilephone": {
+      "name": "Yellow Aesthetic Wallpaper HD",
+      "csv_line": 340778,
+      "price": "True"
+    },
+    "com.dnakidneycarenowv2karlaediting.app": {
+      "name": "DNA Kidney Care Now",
+      "csv_line": 340780,
+      "price": "0"
+    },
+    "com.henry.whalecomic": {
+      "name": "Whale Comic",
+      "csv_line": 340784,
+      "price": "0"
+    },
+    "com.turtle.tpm": {
+      "name": "my PM",
+      "csv_line": 340786,
+      "price": "0"
+    },
+    "com.maryatimedia.bricewegospel": {
+      "name": "Brian C Wilson Gospel Lyrics",
+      "csv_line": 340788,
+      "price": "0"
+    },
+    "com.smcim.stmothertheresapadankavala": {
+      "name": "\"ST.MOTHER THERESA CHURCH, PADANKAVALA\"",
+      "csv_line": 340789,
+      "price": "0"
+    },
+    "com.gifcollection.newyeargif": {
+      "name": "New Year Gif",
+      "csv_line": 340793,
+      "price": "True"
+    },
+    "com.app2u.cheanel": {
+      "name": "Cheanel 360",
+      "csv_line": 340795,
+      "price": "0"
+    },
+    "io.pushpay.cccspringfield": {
+      "name": "Christ Community Springfield",
+      "csv_line": 340798,
+      "price": "0"
+    },
+    "com.komnit": {
+      "name": "Kumnit",
+      "csv_line": 340804,
+      "price": "True"
+    },
+    "com.appdirect.mobile.teams": {
+      "name": "AppWise Teams",
+      "csv_line": 340815,
+      "price": "0"
+    },
+    "com.turner.cnplay": {
+      "name": "Cartoon Network Arcade",
+      "csv_line": 340817,
+      "price": "1349654"
+    },
+    "com.xapapps.khwabonkitabeer": {
+      "name": "khawabon ki tabeer -  Khawab Nama in urdu",
+      "csv_line": 340818,
+      "price": "True"
+    },
+    "com.motomodsdev.mdkdisplay": {
+      "name": "MDK Display",
+      "csv_line": 340821,
+      "price": "True"
+    },
+    "com.CodeBlues.SlingGirl": {
+      "name": "\uc2ac\ub9c1 \uac78: Sling Girl",
+      "csv_line": 340825,
+      "price": "0"
+    },
+    "com.haydengrzesik.burnoutv1": {
+      "name": "Burn-Out : Testez-vous!",
+      "csv_line": 340827,
+      "price": "0"
+    },
+    "mba.ranking": {
+      "name": "MBA ranking",
+      "csv_line": 340833,
+      "price": "0"
+    },
+    "com.ssi.createaccount": {
+      "name": "SSI Social security Create Account Step",
+      "csv_line": 340835,
+      "price": "0"
+    },
+    "com.gaone.smashythesquare": {
+      "name": "Smashy The Square : Brain Out Test",
+      "csv_line": 340840,
+      "price": "True"
+    },
+    "com.happenn.mobile.ifpa": {
+      "name": "IFPA",
+      "csv_line": 340843,
+      "price": "0"
+    },
+    "com.cornellappdev.volume": {
+      "name": "Volume - Cornell Publications",
+      "csv_line": 340846,
+      "price": "0"
+    },
+    "com.gvsmsg.christmas": {
+      "name": "Merry Christmas Messages Images & Greeting Cards",
+      "csv_line": 340850,
+      "price": "True"
+    },
+    "com.aditmicrosys.easylife": {
+      "name": "Easy Life Personal Finance",
+      "csv_line": 340851,
+      "price": "True"
+    },
+    "com.madcapgames.insanejoker.cursesinister.survivalstate": {
+      "name": "Insane Joker Curse: Sinister Survival State",
+      "csv_line": 340853,
+      "price": "True"
+    },
+    "com.appbecho.kissfm96": {
+      "name": "96.1 kiss fm pittsburgh radio",
+      "csv_line": 340857,
+      "price": "0"
+    },
+    "com.catonpub.Cefa11": {
+      "name": "\"Cefa's New Home, Book #1\"",
+      "csv_line": 340862,
+      "price": "2.99"
+    },
+    "com.apusapps.theme.i_street_old_house_cafe_c114caf9d7": {
+      "name": "Street Old Cafe APUS Launcher theme",
+      "csv_line": 340863,
+      "price": "True"
+    },
+    "com.app.p1547CE": {
+      "name": "_French Pieces",
+      "csv_line": 340864,
+      "price": "0"
+    },
+    "com.microblog.nukkad": {
+      "name": "Nukkad",
+      "csv_line": 340866,
+      "price": "0"
+    },
+    "mobile.appXVE3VyLOJo": {
+      "name": "Johnson & Johnson CSR",
+      "csv_line": 340870,
+      "price": "0"
+    },
+    "com.phatlecorp.englistening": {
+      "name": "English Listening Lessons",
+      "csv_line": 340874,
+      "price": "True"
+    },
+    "test4u.eu": {
+      "name": "\u0391\u0395\u03a0\u03a0 TEST4U",
+      "csv_line": 340875,
+      "price": "True"
+    },
+    "com.guidefor.tanglemastertreed": {
+      "name": "guide for Tangle master 3D",
+      "csv_line": 340877,
+      "price": "0"
+    },
+    "com.rewcode.megainvader": {
+      "name": "Mega Invader",
+      "csv_line": 340878,
+      "price": "0"
+    },
+    "com.TheWeddingHall.hulagos": {
+      "name": "Wedding Hall Decoration Ideas",
+      "csv_line": 340880,
+      "price": "True"
+    },
+    "com.zerocorp.jeepwallpaper": {
+      "name": "Best Jeep Wallpaper",
+      "csv_line": 340881,
+      "price": "0"
+    },
+    "com.my.fmearating": {
+      "name": "FMEA - SOD EVALUATION CRITERIA",
+      "csv_line": 340882,
+      "price": "True"
+    },
+    "com.justkidding": {
+      "name": "Just Kidding",
+      "csv_line": 340883,
+      "price": "0"
+    },
+    "com.turboodev.desconto.leroymerlin.americanas.magazineluiza.casasbahia": {
+      "name": "\"Loja do Mec\u00e2nico, TelhaNorte - Promo\u00e7\u00f5es\"",
+      "csv_line": 340884,
+      "price": "0"
+    },
+    "com.sachi.meng_chiyag_marathi.AOUNLDCIWSMAJULS": {
+      "name": "Meng Chiyag Aani Etar Gosti",
+      "csv_line": 340885,
+      "price": "True"
+    },
+    "com.homeservice.homeee": {
+      "name": "Home Service",
+      "csv_line": 340887,
+      "price": "0"
+    },
+    "com.smartinvestment.app.smartinvestment": {
+      "name": "SMART INVESTMENT GURU",
+      "csv_line": 340888,
+      "price": "True"
+    },
+    "com.fserb.bowling": {
+      "name": "Bowling Solitaire",
+      "csv_line": 340890,
+      "price": "0"
+    },
+    "com.masterclub.merchant": {
+      "name": "Master Club TIM",
+      "csv_line": 340893,
+      "price": "0"
+    },
+    "com.mod.addon.ore.gamecraft": {
+      "name": "Mod Ore Locator: Find Emerald",
+      "csv_line": 340896,
+      "price": "True"
+    },
+    "com.legitapps.douglass": {
+      "name": "Frederick Douglass \u2013 FC",
+      "csv_line": 340897,
+      "price": "0"
+    },
+    "com.bunapps.thegroovefm993": {
+      "name": "99.3 The Groove FM",
+      "csv_line": 340898,
+      "price": "0"
+    },
+    "com.easybutnoteasy.findwordswordsearch": {
+      "name": "Find Words - New Edition",
+      "csv_line": 340899,
+      "price": "0"
+    },
+    "com.fitnessmobileapps.prevail": {
+      "name": "PREVAIL Boxing",
+      "csv_line": 340901,
+      "price": "0"
+    },
+    "in.photomall.app.deonphotography": {
+      "name": "Deon Photography - View And Share Photo Album",
+      "csv_line": 340910,
+      "price": "0"
+    },
+    "com.blissotech.solutions.cantonese.keyboard": {
+      "name": "Cantonese Keyboard BT",
+      "csv_line": 340914,
+      "price": "0"
+    },
+    "in.codehound.fatrunner": {
+      "name": "Sneaky Thief",
+      "csv_line": 340915,
+      "price": "True"
+    },
+    "com.apusapps.theme.i_pink_heart_394a9147a1": {
+      "name": "Pink Heart Love-APUS Launcher stylish theme",
+      "csv_line": 340920,
+      "price": "True"
+    },
+    "com.offerwall.spin.scratch": {
+      "name": "OfferWall - Complete Task & Earn Coins & Cash",
+      "csv_line": 340924,
+      "price": "True"
+    },
+    "com.agilerise.serra.international": {
+      "name": "SERRA INTERNATIONAL - Official",
+      "csv_line": 340928,
+      "price": "True"
+    },
+    "com.listen2myapp.listen2myapp268": {
+      "name": "Harmony FM Spain",
+      "csv_line": 340934,
+      "price": "0"
+    },
+    "com.BitofGame.RCCarParking": {
+      "name": "RC Car Parking",
+      "csv_line": 340941,
+      "price": "True"
+    },
+    "com.tafu.tafu": {
+      "name": "Tafu e-commerce",
+      "csv_line": 340942,
+      "price": "0"
+    },
+    "fi.bobtherobot.vodkafarmer.android": {
+      "name": "Vodka Farmer",
+      "csv_line": 340943,
+      "price": "0"
+    },
+    "com.arrivo.mypay": {
+      "name": "mypay",
+      "csv_line": 340945,
+      "price": "True"
+    },
+    "com.justin.vaidhyasala.vaidhyasala": {
+      "name": "vaidyasala",
+      "csv_line": 340947,
+      "price": "True"
+    },
+    "com.quotesgarden.barrymarshallquotesapp": {
+      "name": "Barry Marshall Quotes",
+      "csv_line": 340948,
+      "price": "0"
+    },
+    "com.losurprise.surprisekawaiis": {
+      "name": "Surprise Kawaii Coloring Pages",
+      "csv_line": 340950,
+      "price": "True"
+    },
+    "com.zonafrancatv.ecoargentinaapps": {
+      "name": "Zona Franca TV",
+      "csv_line": 340951,
+      "price": "0"
+    },
+    "com.storm.madnews": {
+      "name": "Storm News",
+      "csv_line": 340954,
+      "price": "0"
+    },
+    "com.flappydog.apk": {
+      "name": "scrappy dog",
+      "csv_line": 340957,
+      "price": "0"
+    },
+    "com.virgo": {
+      "name": "VIRGO",
+      "csv_line": 340959,
+      "price": "0"
+    },
+    "digifit.android.virtuagym.pro.mosaichealth": {
+      "name": "Mosaic Health",
+      "csv_line": 340960,
+      "price": "0"
+    },
+    "com.improveshops.Orsobiancoroca": {
+      "name": "ORSOBIANCOROCA",
+      "csv_line": 340962,
+      "price": "0"
+    },
+    "com.makeinindia.preschool.portuguese": {
+      "name": "Preschool \u2013 Portuguese",
+      "csv_line": 340963,
+      "price": "True"
+    },
+    "com.sharingan.eyes.uchiha_sharingan.rasengan.super_power": {
+      "name": "Sharingan Eyes - Ninja Camera Effect",
+      "csv_line": 340965,
+      "price": "True"
+    },
+    "com.RCH_Games.Metronome": {
+      "name": "Metronome",
+      "csv_line": 340966,
+      "price": "0"
+    },
+    "appinventor.ai_asanchofedac.PULMOPREDCAMBIADA": {
+      "name": "PulmoPred",
+      "csv_line": 340968,
+      "price": "0"
+    },
+    "au.com.tourismresearch.researchskane": {
+      "name": "Sk\u00e5ne Visitor Research",
+      "csv_line": 340970,
+      "price": "0"
+    },
+    "com.fabianvautz.barcodeandqrreader": {
+      "name": "Barcode & QR Code Scanner",
+      "csv_line": 340971,
+      "price": "0"
+    },
+    "com.GoodmorningGoodnight": {
+      "name": "Good Morning Good Night gif 2021",
+      "csv_line": 340974,
+      "price": "True"
+    },
+    "com.parallel6.krystal10": {
+      "name": "KRYSTAL-10",
+      "csv_line": 340977,
+      "price": "0"
+    },
+    "com.gloom.devicemanager": {
+      "name": "Device Manager",
+      "csv_line": 340979,
+      "price": "True"
+    },
+    "com.newappss.loveimagesgif": {
+      "name": "I love you ; images Gif & Romantic flower pictures",
+      "csv_line": 340982,
+      "price": "0"
+    },
+    "com.fun_free_games.sniper.gun.shooter.free.apps": {
+      "name": "Sniper Shooter assassin: Fire Free Shooting Games",
+      "csv_line": 340984,
+      "price": "True"
+    },
+    "ru.vocalex.androidoverview": {
+      "name": "\u0412\u043e\u043a\u0430\u043b\u0435\u043a\u0441. \u041d\u0430\u0443\u0447\u0438\u0441\u044c \u043f\u0435\u0442\u044c \u043a\u0430\u043a \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0430\u044f \u0437\u0432\u0435\u0437\u0434\u0430!",
+      "csv_line": 340986,
+      "price": "True"
+    },
+    "com.livewallpapershd.garden": {
+      "name": "Garden Live Wallpaper",
+      "csv_line": 340987,
+      "price": "True"
+    },
+    "appsgeneration.com.mathematics": {
+      "name": "Mathequizer",
+      "csv_line": 340993,
+      "price": "0"
+    }
+  },
+  "error": {}
+}

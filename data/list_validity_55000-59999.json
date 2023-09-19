@@ -1,0 +1,15 @@
+{
+  "count": {
+    "valid": 1,
+    "invalid": 0
+  },
+  "valid_apps": {
+    "com.activtrax.mobile": {
+      "name": "ActivTrax",
+      "csv_line": 55000,
+      "price": "True"
+    }
+  },
+  "invalid_apps": {},
+  "error": {}
+}

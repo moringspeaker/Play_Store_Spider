@@ -1,0 +1,15 @@
+{
+  "count": {
+    "valid": 0,
+    "invalid": 1
+  },
+  "valid_apps": {},
+  "invalid_apps": {
+    "com.jb.gokeyboard.theme.lunathemes.sweetcherry": {
+      "name": "Sweet Cherry Keyboard",
+      "csv_line": 65000,
+      "price": "True"
+    }
+  },
+  "error": {}
+}

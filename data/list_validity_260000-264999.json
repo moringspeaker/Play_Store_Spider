@@ -1,0 +1,16 @@
+{
+  "count": {
+    "valid": 0,
+    "invalid": 1,
+    "error": 0
+  },
+  "valid_apps": {},
+  "invalid_apps": {
+    "com.pucsp.cemiterioconsolacao": {
+      "name": "Guia Cemit\u00e9rio Consola\u00e7\u00e3o",
+      "csv_line": 260000,
+      "price": "True"
+    }
+  },
+  "error": {}
+}

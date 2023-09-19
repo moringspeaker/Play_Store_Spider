@@ -1,0 +1,15 @@
+{
+  "count": {
+    "valid": 0,
+    "invalid": 1
+  },
+  "valid_apps": {},
+  "invalid_apps": {
+    "com.apps.twelve.floor.medical": {
+      "name": "FIDELITA MEDICAL Demo",
+      "csv_line": 70000,
+      "price": "0"
+    }
+  },
+  "error": {}
+}

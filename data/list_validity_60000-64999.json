@@ -1,0 +1,15 @@
+{
+  "count": {
+    "valid": 0,
+    "invalid": 1
+  },
+  "valid_apps": {},
+  "invalid_apps": {
+    "com.myfreerecipes.friedchickenrecipe": {
+      "name": "Fried Chicken Recipes",
+      "csv_line": 60000,
+      "price": "0"
+    }
+  },
+  "error": {}
+}

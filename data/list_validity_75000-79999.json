@@ -1,0 +1,15 @@
+{
+  "count": {
+    "valid": 1,
+    "invalid": 0
+  },
+  "valid_apps": {
+    "com.aan.policyconference19": {
+      "name": "Academy Policy Conference 2019",
+      "csv_line": 75000,
+      "price": "0"
+    }
+  },
+  "invalid_apps": {},
+  "error": {}
+}
